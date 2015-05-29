@@ -19,7 +19,14 @@
 var app = {
     // Application Constructor
     initialize: function() {
-        this.bindEvents();
+	   if (this.isApp()) {
+		   // We draaien binnen de app
+	      this.bindEvents();
+	   } else {
+		   // We draaien vanaf een webserver
+		   this.onDeviceReady();
+	   }
+
     },
     // Bind Event Listeners
     //
@@ -33,18 +40,54 @@ var app = {
     // The scope of 'this' is the event. In order to call the 'receivedEvent'
     // function, we must explicitly call 'app.receivedEvent(...);'
     onDeviceReady: function() {
-        app.receivedEvent('deviceready');
+	    
+      app.receivedEvent('deviceready');
+        		
+  		
+  		$('#MapIcon').on('click', function() {
+			$('#Map').toggle();
+		});
+      
+        
+  		var map = L.map('Map').setView([52.104, 5.175], 13);
+		
+		L.tileLayer('https://{s}.tiles.mapbox.com/v3/{id}/{z}/{x}/{y}.png', {
+			maxZoom: 18,
+			attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
+				'<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
+				'Imagery � <a href="http://mapbox.com">Mapbox</a>',
+			id: 'examples.map-i875mjb7'
+		}).addTo(map);
+		
+  		$('#Map').hide();
+
+
+        
+        
+        
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {
-        var parentElement = document.getElementById(id);
-        var listeningElement = parentElement.querySelector('.listening');
-        var receivedElement = parentElement.querySelector('.received');
-
-        listeningElement.setAttribute('style', 'display:none;');
-        receivedElement.setAttribute('style', 'display:block;');
-
-        console.log('Received Event: ' + id);
+	    if (this.isApp()) {
+			var parentElement = document.getElementById(id);
+			var listeningElement = parentElement.querySelector('.listening');
+			var receivedElement = parentElement.querySelector('.received');
+			
+			listeningElement.setAttribute('style', 'display:none;');
+			receivedElement.setAttribute('style', 'display:block;');
+			
+			console.log('Received Event: ' + id);
+		}
+    },
+    
+    isApp: function() {
+	   if (document.URL.indexOf("http://") === -1 && document.URL.indexOf("https://") === -1) {
+		   // We draaien binnen de app
+	      return true;
+	   } else {
+		   // We draaien vanaf een webserver
+		   return false;
+	   }
     }
 };
 
