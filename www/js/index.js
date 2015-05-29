@@ -26,6 +26,7 @@ var app = {
 		   // We draaien vanaf een webserver
 		   this.onDeviceReady();
 	   }
+
     },
     // Bind Event Listeners
     //
