@@ -19,7 +19,13 @@
 var app = {
     // Application Constructor
     initialize: function() {
-      this.bindEvents();
+	   if (this.isApp()) {
+		   // We draaien binnen de app
+	      this.bindEvents();
+	   } else {
+		   // We draaien vanaf een webserver
+		   this.onDeviceReady();
+	   }
     },
     // Bind Event Listeners
     //
@@ -33,8 +39,10 @@ var app = {
     // The scope of 'this' is the event. In order to call the 'receivedEvent'
     // function, we must explicitly call 'app.receivedEvent(...);'
     onDeviceReady: function() {
-        app.receivedEvent('deviceready');
-        
+	    
+      app.receivedEvent('deviceready');
+        		
+  		
   		$('#MapIcon').on('click', function() {
 			$('#Map').toggle();
 		});
@@ -50,7 +58,8 @@ var app = {
 			id: 'examples.map-i875mjb7'
 		}).addTo(map);
 		
-		
+  		$('#Map').hide();
+
 
         
         
@@ -58,14 +67,26 @@ var app = {
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {
-        var parentElement = document.getElementById(id);
-        var listeningElement = parentElement.querySelector('.listening');
-        var receivedElement = parentElement.querySelector('.received');
-
-        listeningElement.setAttribute('style', 'display:none;');
-        receivedElement.setAttribute('style', 'display:block;');
-
-        console.log('Received Event: ' + id);
+	    if (this.isApp()) {
+			var parentElement = document.getElementById(id);
+			var listeningElement = parentElement.querySelector('.listening');
+			var receivedElement = parentElement.querySelector('.received');
+			
+			listeningElement.setAttribute('style', 'display:none;');
+			receivedElement.setAttribute('style', 'display:block;');
+			
+			console.log('Received Event: ' + id);
+		}
+    },
+    
+    isApp: function() {
+	   if (document.URL.indexOf("http://") === -1 && document.URL.indexOf("https://") === -1) {
+		   // We draaien binnen de app
+	      return true;
+	   } else {
+		   // We draaien vanaf een webserver
+		   return false;
+	   }
     }
 };
 
