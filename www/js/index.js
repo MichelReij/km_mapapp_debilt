@@ -19,7 +19,7 @@
 var app = {
     // Application Constructor
     initialize: function() {
-        this.bindEvents();
+      this.bindEvents();
     },
     // Bind Event Listeners
     //
@@ -34,6 +34,27 @@ var app = {
     // function, we must explicitly call 'app.receivedEvent(...);'
     onDeviceReady: function() {
         app.receivedEvent('deviceready');
+        
+  		$('#MapIcon').on('click', function() {
+			$('#Map').toggle();
+		});
+      
+        
+  		var map = L.map('Map').setView([52.104, 5.175], 13);
+		
+		L.tileLayer('https://{s}.tiles.mapbox.com/v3/{id}/{z}/{x}/{y}.png', {
+			maxZoom: 18,
+			attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
+				'<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
+				'Imagery � <a href="http://mapbox.com">Mapbox</a>',
+			id: 'examples.map-i875mjb7'
+		}).addTo(map);
+		
+		
+
+        
+        
+        
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {
