@@ -114,4 +114,7 @@ h1 {
     -webkit-animation:fade 3000ms infinite;
 }
 
-#map { height: 180px; }
+#kmmap{
+    height: 100%;
+}
+

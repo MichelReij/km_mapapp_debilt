@@ -1,0 +1,3887 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1915,
+                "krnr": 0,
+                "email": "caroline@carolineart.nl",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Caroline",
+                "Tussenvoegsel": "van+der",
+                "Achternaam": "Weide",
+                "Straat en huisnr": "Drouwenerveen+5",
+                "Postcode": "3825RS",
+                "Plaats": "Amersfoort",
+                "Website": "www.carolineart.nl",
+                "Telefoon": "06-30435618",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "Ik+schilder+vrouwelijke+kracht.+En+krachtige+vrouwelijkheid.%3Cbr%3E"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1916,
+                "krnr": 0,
+                "email": "ietjearts@kpnmail.nl",
+                "kunstvorm": "recycled design",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Irene",
+                "Tussenvoegsel": "",
+                "Achternaam": "Arts",
+                "Straat en huisnr": "Karel+Doormanstraat++10+A",
+                "Postcode": "5342TL",
+                "Plaats": "Oss",
+                "Website": "word+aan+gewekt",
+                "Telefoon": "0412-640614",
+                "Kunstvorm": "recycled+design",
+                "Omschrijving van het werk": "Fleurig+bloemig+hergebruik"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1917,
+                "krnr": 0,
+                "email": "info@camphuijsen-art.nl",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Rita",
+                "Tussenvoegsel": "",
+                "Achternaam": "Camphuijsen",
+                "Straat en huisnr": "Ambachtstraat+9-I",
+                "Postcode": "3732CN",
+                "Plaats": "De+Bilt",
+                "Website": "www.camphuijsen-art.nl",
+                "Telefoon": "0657085918",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "Olieverfschilderijen%3Cbr%3ERealisme+uit+het+leven+gegrepen.+Gemotiveerd+door+ontroerende+momenten.+Zoals+iemand+schetste%3A+%5C%22Om+het+leven+te+vieren%5C%22"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1918,
+                "krnr": 0,
+                "email": "lydieknol@hetnet.nl",
+                "kunstvorm": "keramiek",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Lydie",
+                "Tussenvoegsel": "",
+                "Achternaam": "Knol-Gunnink",
+                "Straat en huisnr": "Loogstraat+24",
+                "Postcode": "8274AJ",
+                "Plaats": "Wilsum",
+                "Website": "www.lydiekeramiek.nl",
+                "Telefoon": "0383557643",
+                "Kunstvorm": "keramiek",
+                "Omschrijving van het werk": "schaal-en+vaasvormen+en+bekers+van+porselein+en+raku+"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1919,
+                "krnr": 0,
+                "email": "obett@ziggo.nl",
+                "kunstvorm": "leerbewerking",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Betteke",
+                "Tussenvoegsel": "",
+                "Achternaam": "Ratten",
+                "Straat en huisnr": "Oude+Haven+18",
+                "Postcode": "1671AS",
+                "Plaats": "Medemblik",
+                "Website": "www.obett.nl",
+                "Telefoon": "0227-543213",
+                "Kunstvorm": "leerbewerking",
+                "Omschrijving van het werk": "unieke+handgemaakte+tassen+en+handige+leren+hebbedingen%28tjes%29"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1920,
+                "krnr": 0,
+                "email": "art.cornel@gmail.com",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Cornel",
+                "Tussenvoegsel": "",
+                "Achternaam": "Pepers",
+                "Straat en huisnr": "Het+Spangoor+49",
+                "Postcode": "7232HB",
+                "Plaats": "Warnsveld",
+                "Website": "www.cornel.exto.nl",
+                "Telefoon": "06.44660155",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "schilderijen+in+acryl+op+grote+doeken."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1921,
+                "krnr": 0,
+                "email": "info@atelierpicobella.nl",
+                "kunstvorm": "sieraden",
+                "krsoort": "kunstenaar",
+                "Voornaam": "I.I.M.J.+%28IRMA%29",
+                "Tussenvoegsel": "de",
+                "Achternaam": "Jong",
+                "Straat en huisnr": "Gooimeerpromenade+75",
+                "Postcode": "1277EV",
+                "Plaats": "Huizen",
+                "Website": "www.atelierpicobella.nl",
+                "Telefoon": "06-22479893",
+                "Kunstvorm": "sieraden",
+                "Omschrijving van het werk": "sieraden+van+flexibele%2Ftextiele+materialen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1922,
+                "krnr": 0,
+                "email": "jewels.by.estrid@upcmail.nl",
+                "kunstvorm": "sieraden",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Estrid",
+                "Tussenvoegsel": "de",
+                "Achternaam": "Wit-Boerhof",
+                "Straat en huisnr": "Zulpichhof+31",
+                "Postcode": "6662CC",
+                "Plaats": "Elst",
+                "Website": "www.Jewels-By-Estrid.nl",
+                "Telefoon": "06-46412776",
+                "Kunstvorm": "sieraden",
+                "Omschrijving van het werk": "mijn+creaties+zijn+handgemaakte+sieraden%2C+waaronder+Beadembroidery+en+Beadwork+sieraden.%3Cbr%3EGraag+nodig+ik+u+uit+een+kijkje+te+nemen+op+mijn+website%3A+www.Jewels-By-Estrid.nl.%3Cbr%3E%3Cbr%3E"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1923,
+                "krnr": 0,
+                "email": "krista@kristas.nl",
+                "kunstvorm": "leerbewerking",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Krista",
+                "Tussenvoegsel": "van",
+                "Achternaam": "Dijk",
+                "Straat en huisnr": "Koperslagersstraat+30",
+                "Postcode": "8601WL",
+                "Plaats": "Sneek",
+                "Website": "www.kristas.nl",
+                "Telefoon": "06-14301344",
+                "Kunstvorm": "leerbewerking",
+                "Omschrijving van het werk": "Lederen+tassen+en+portemonnees+naar+eigen+ontwerp.%3Cbr%3EIk+probeer+in+mijn+ontwerpen+de+schouderband+bij+de+vormgeving+te+betrekken%2C+op+zo%5C%27n+manier+dat+stiknaden+niet+alleen+praktische+functie+hebben+maar+ook+een+beeldend+element+krijgen+in+de+tas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1924,
+                "krnr": 0,
+                "email": "Marijkekortlandt@hotmail.com",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Marijke",
+                "Tussenvoegsel": "",
+                "Achternaam": "Kortlandt",
+                "Straat en huisnr": "Kerklaan+119",
+                "Postcode": "1241CL",
+                "Plaats": "Kortenhoef",
+                "Website": "www.marijkekortlandt.nl",
+                "Telefoon": "035-8884612",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "Bloemen+pasta+met+acryl."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1925,
+                "krnr": 0,
+                "email": "hexkunst@gmail.com",
+                "kunstvorm": "sieraden",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Marlies",
+                "Tussenvoegsel": "van+der",
+                "Achternaam": "Wijngaard",
+                "Straat en huisnr": "Ruysdaellaan+20",
+                "Postcode": "7312MH",
+                "Plaats": "Apeldoorn",
+                "Website": "www.hexsieraden.nl",
+                "Telefoon": "06-18908289",
+                "Kunstvorm": "sieraden",
+                "Omschrijving van het werk": "sieraden+uit+eigen+atelier+van+zeer+uiteenlopende+materialen.+"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1926,
+                "krnr": 0,
+                "email": "renske.art@casema.nl",
+                "kunstvorm": "edelsmeden",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Renske",
+                "Tussenvoegsel": "",
+                "Achternaam": "Dussel",
+                "Straat en huisnr": "Akker+79",
+                "Postcode": "3732XC",
+                "Plaats": "De+Bilt",
+                "Website": "www.renske-art.nl",
+                "Telefoon": "030-2211655",
+                "Kunstvorm": "edelsmeden",
+                "Omschrijving van het werk": "Sieraden+van+zilverklei+en+metaal+klei+die+naar+verhitting+99%25+zilver+of+metaal+zijn."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1927,
+                "krnr": 0,
+                "email": "polderweg@hotmail.com",
+                "kunstvorm": "keramiek",
+                "krsoort": "kunstenaar",
+                "Voornaam": "W",
+                "Tussenvoegsel": "",
+                "Achternaam": "Glas",
+                "Straat en huisnr": "Jeroen+Boschplantsoen+91",
+                "Postcode": "1318HC",
+                "Plaats": "Almere",
+                "Website": "www.wendyglas.nl",
+                "Telefoon": "06-21486526",
+                "Kunstvorm": "keramiek",
+                "Omschrijving van het werk": "Mijn+werk+is+merendeels+gegoten+werk+waarbij+ik+diverse+lagen+over+elkaar+giet+en+naderhand+%5C%22uitguts%5C%22+om+zodoende+de+kleuren+zichtbaar+te+maken.+Ook+heb+ik+diverse+soorten+sieraden%2C+zowel+van+gewoon+als+van+gegoten+porcelein.+Tenslotte+heb+ik+een+figuratief+hoekje+met+karakteristieke+figuurtjes."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1928,
+                "krnr": 0,
+                "email": "macleod4834@gmail.com",
+                "kunstvorm": "keramiek",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Lorraine",
+                "Tussenvoegsel": "",
+                "Achternaam": "Mac+Leod",
+                "Straat en huisnr": "Kievit+12+B10",
+                "Postcode": "5111HD",
+                "Plaats": "Baarle+Nassau",
+                "Website": "Lorraine.exto.nl",
+                "Telefoon": "0655117862",
+                "Kunstvorm": "keramiek",
+                "Omschrijving van het werk": "Keramiek+voor+de+tuin.+Zowel+de+keramiek+als+de+schilderpanelen+zijn+bedoeld+om+een+glimlach+te+ontlokken"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1929,
+                "krnr": 0,
+                "email": "frits.theuns@hetnet.nl",
+                "kunstvorm": "keramiek",
+                "krsoort": "kunstenaar",
+                "Voornaam": "F.",
+                "Tussenvoegsel": "",
+                "Achternaam": "Theuns",
+                "Straat en huisnr": "Posthoornseweg+27",
+                "Postcode": "5062SZ",
+                "Plaats": "Oisterwijk",
+                "Website": "",
+                "Telefoon": "0135284517",
+                "Kunstvorm": "keramiek",
+                "Omschrijving van het werk": "raku+gestookte+keramiek"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1930,
+                "krnr": 0,
+                "email": "sonja@hooglanderartexpo.nl",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Sonja++S.P",
+                "Tussenvoegsel": "",
+                "Achternaam": "Hooglander",
+                "Straat en huisnr": "Meint+Veningastraat+36E",
+                "Postcode": "9601KG",
+                "Plaats": "Hoogezand",
+                "Website": "",
+                "Telefoon": "0611301878",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "Surrealistisch+en+Grafisch+Realistisch"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1931,
+                "krnr": 0,
+                "email": "contact@carolagrutter.com",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Carola+M.",
+                "Tussenvoegsel": "",
+                "Achternaam": "Grutter",
+                "Straat en huisnr": "Maasstraat+25",
+                "Postcode": "2025RK",
+                "Plaats": "Haarlem",
+                "Website": "www.carolagrutter.nl",
+                "Telefoon": "06-21604059",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "Kleurrijk+werk%2C+vaak+met+mens%2C+dier+en%2Fof+natuur+als+onderwerp%2C+op+een+impressionistische+%28soms+realistische%29+wijze+geschilderd."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1932,
+                "krnr": 0,
+                "email": "polyroseart@gmail.com",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Rozan",
+                "Tussenvoegsel": "de",
+                "Achternaam": "Wit",
+                "Straat en huisnr": "Columbusweg+95",
+                "Postcode": "3814WD",
+                "Plaats": "Amersfoort",
+                "Website": "",
+                "Telefoon": "0623515568",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "In+mijn+werk+maak+ik+alleen+gebruik+van+rechte+lijnen.+Hierdoor+ontstaan+verschillende+soorten+driehoekachtige+vormen+die+samen+een+afbeelding+maken.+Hierdoor+past+mijn+werk+in+de+polygoon+categorie.+Ik+schilder+met+vellen+kleuren+en+gebruik+binnen+een+schilderij+2+verschillende+soorten+verf.+Ook+maak+ik+veel+illustraties+en+portretten+op+papier+met+pen.+De+beste+illustraties+reproduceer+ik+in+kleine+oplages+door+middel+van+zeefdruk.+"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1933,
+                "krnr": 0,
+                "email": "info@nanuk-art.nl",
+                "kunstvorm": "recycled design",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Nanouk",
+                "Tussenvoegsel": "",
+                "Achternaam": "Jutte",
+                "Straat en huisnr": "Beaulieustraat+2-1",
+                "Postcode": "6814DV",
+                "Plaats": "Arnhem",
+                "Website": "www.nanuk-art.nl",
+                "Telefoon": "0649881409",
+                "Kunstvorm": "recycled+design",
+                "Omschrijving van het werk": "interieur+en+recycle+design+en+objecten"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1934,
+                "krnr": 0,
+                "email": "info@hettybranderhorst.com",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Hetty",
+                "Tussenvoegsel": "",
+                "Achternaam": "Branderhorst",
+                "Straat en huisnr": "Otterkoog+18+g",
+                "Postcode": "1822BW",
+                "Plaats": "Alkmaar",
+                "Website": "www.hettybranderhorst.com",
+                "Telefoon": "06-53171552",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "abstracte%2C+vaak+grote+olieverf+schilderijen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1935,
+                "krnr": 0,
+                "email": "debestekgek@casema.nl",
+                "kunstvorm": "edelsmeden",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Gerard",
+                "Tussenvoegsel": "",
+                "Achternaam": "Klerk",
+                "Straat en huisnr": "Barbara+van+Meertenstraat+14",
+                "Postcode": "2331DM",
+                "Plaats": "Leiden",
+                "Website": "www.debestekgek.nl",
+                "Telefoon": "071-5722617",
+                "Kunstvorm": "edelsmeden",
+                "Omschrijving van het werk": "Ik+maak+en+verkoop+Kunst%2C+sieraden+en+lampen+gemaakt+van+oud+antiek+bestek"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1936,
+                "krnr": 0,
+                "email": "info@minestemkens.nl",
+                "kunstvorm": "-anders-",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Mine",
+                "Tussenvoegsel": "",
+                "Achternaam": "Stemkens",
+                "Straat en huisnr": "LaagFrankrijk++2",
+                "Postcode": "6211PV",
+                "Plaats": "Maastricht",
+                "Website": "www.minestemkens.nl",
+                "Telefoon": "043-3259781",
+                "Kunstvorm": "-anders-",
+                "Omschrijving van het werk": "WoordKunst%3B+vormgeving+van+gedichten+op+o.a.+doeken%2C+windlichten%2C+gedichtendoosjes%2C+in+bundels%2C+bundeldoosje"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1937,
+                "krnr": 0,
+                "email": "beamofers@hotmail.com",
+                "kunstvorm": "edelsmeden",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Bea+%2FBEE",
+                "Tussenvoegsel": "",
+                "Achternaam": "Van+der+Drift-Mofers",
+                "Straat en huisnr": "Molenstraat+41",
+                "Postcode": "6116CC",
+                "Plaats": "Roosteren+",
+                "Website": "www.beamofersgoudsmid.nl",
+                "Telefoon": "0464494701",
+                "Kunstvorm": "edelsmeden",
+                "Omschrijving van het werk": "eigentijdse+gouden+en++zilveren+sieraden+in+combinatie+met+edelstenen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1938,
+                "krnr": 0,
+                "email": "mirjan@vlekkendingen.nl",
+                "kunstvorm": "tekeningen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Mirjan",
+                "Tussenvoegsel": "van+de",
+                "Achternaam": "Hel",
+                "Straat en huisnr": "Oeterselaan+67",
+                "Postcode": "5223XD",
+                "Plaats": "Den+Bosch",
+                "Website": "http%3A%2F%2Fvlekkendingen.nl",
+                "Telefoon": "06-14742391",
+                "Kunstvorm": "tekeningen",
+                "Omschrijving van het werk": "Vlekkendingen+%2F+Vlekken-ding%26dicht-boekjes+%2F+Ansichtkaarten.%3Cbr%3E%3Cbr%3EVlekkendingen+zijn+kleine+kunstwerkjes+die+worden+gebaseerd+op+willekeurig+gemaakte+vlekken.+Over+aquarelpapier+met+vlekken+wordt+een+sheet+gelegd%2C+waarop+met+Oost-Indische+inkt+tekeningen+worden+gemaakt.+Het+geheel+zorgt+voor+dieptewerking.+De+thema%5C%27s+zijn+heel+uiteenlopend%3A+van+een+enkel+%28fantasie%29dier+tot+complete+scenes+met+mensen%2C+dieren+en+dingen.%3Cbr%3EVervolgens+worden+bij+de+Vlekkendingen+korte+%28plezier%29gedichtjes+gemaakt+die+de+kunstwerkjes+karakteriseren.+Een+aantal+daarvan+is+opgenomen+in+een+boek%3A+het+Vlekken-ding%26dicht-boekje.%3Cbr%3EDe+combinatie+Vlekkendingen-Vlekkendichten+komt+ook+terug+op+de+ansichtkaarten%2C+waarvan+we+onder+meer+verjaardagskaarten+hebben.+"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1939,
+                "krnr": 0,
+                "email": "willyschut@hotmail.com",
+                "kunstvorm": "-anders-",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Willy",
+                "Tussenvoegsel": "",
+                "Achternaam": "Schut",
+                "Straat en huisnr": "Van+Oldenbarneveltstraat+34",
+                "Postcode": "3862SC",
+                "Plaats": "Nijkerk",
+                "Website": "www.willyschut.exto.nl",
+                "Telefoon": "033-2458387",
+                "Kunstvorm": "-anders-",
+                "Omschrijving van het werk": "Schilderijen+en+objecten+in+mixed+media.+De+rode+draad+in+mijn+werk+is+textiel."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1940,
+                "krnr": 0,
+                "email": "roozendaalenswaan@ziggo.nl",
+                "kunstvorm": "lampen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Joke",
+                "Tussenvoegsel": "",
+                "Achternaam": "Roozendaal",
+                "Straat en huisnr": "Burg.+Raatlaan+11",
+                "Postcode": "1693EB",
+                "Plaats": "Wervershoof",
+                "Website": "www.roozendaalenswaan.nl",
+                "Telefoon": "0228-583239",
+                "Kunstvorm": "lampen",
+                "Omschrijving van het werk": "Door+ons+ontworpen%2C+vervaardigd+en+handbeschilderde+kunstzinnige+verlichting"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1941,
+                "krnr": 0,
+                "email": "infocorabeads@gmail.com",
+                "kunstvorm": "glaskunst",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Cora",
+                "Tussenvoegsel": "",
+                "Achternaam": "Hellings",
+                "Straat en huisnr": "Eindhovenseweg+112",
+                "Postcode": "5661NB",
+                "Plaats": "Geldrop",
+                "Website": "www.coraglassbeads.nl",
+                "Telefoon": "0402868829",
+                "Kunstvorm": "glaskunst",
+                "Omschrijving van het werk": "Ik+hou+mijn+bezig+om+met+zacht+glas+kralen+te+branden+of+te+blazen.+Kralen+die+ik+%5C%22brand%5C%22+zijn+van+massief+glas+en+dus+iets+zwaarder+in+gewicht+maar+een+kraal+heeft+veel+diepte+en+vele+kleuren+zijn+zichtbaar.+Een+%5C%22geblazen%5C%22+kraal+is+hol+en+licht+van+gewicht+maar+ook+deze+zijn+in+vele+kleurschakeringen+te+maken.+Van+deze+zelfgemaakte+kralen+maak+ik+dan+weer+hangertjes%2C+kettingen%2C+armbanden%2C+oorbellen+of+ringtops.+Al+mijn+sieraden+werk+ik+af+met+echt+sterling+zilver+en+van+ieder+sieraad+maak+ik+ook+maar+1+exemplaar.%3Cbr%3ENaast+dit+alles+hou+ik+mij+ook+bezig+met+het+maken+van+kleine+glassculptuurtjes+en+dan+voornamelijk%3A+trollen%2C+kabouters%2C+beertjes+en+andere+diertjes."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1942,
+                "krnr": 0,
+                "email": "info@anuka.nl",
+                "kunstvorm": "grafieken",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Anna",
+                "Tussenvoegsel": "",
+                "Achternaam": "Mul",
+                "Straat en huisnr": "Fnidsen+28+a",
+                "Postcode": "1811NG",
+                "Plaats": "Alkmaar",
+                "Website": "www.anuka.nl",
+                "Telefoon": "072-5156099",
+                "Kunstvorm": "grafieken",
+                "Omschrijving van het werk": "kaarten%2C+tegels%2C+posters%2C+kleine+objecten"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1943,
+                "krnr": 0,
+                "email": "corida@home.nl",
+                "kunstvorm": "-anders-",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Ida",
+                "Tussenvoegsel": "ten",
+                "Achternaam": "Berge",
+                "Straat en huisnr": "Goldhoorn+13",
+                "Postcode": "9682XL",
+                "Plaats": "Oostwold%28Oldambt%29",
+                "Website": "",
+                "Telefoon": "0597552565",
+                "Kunstvorm": "-anders-",
+                "Omschrijving van het werk": "Excl.+sieraden+van+verschillende+materialen%2C+zijde%2C+PE%2C+vloeibaar+rubber+%28+alles+eigen+ontwerp%29%2Czijden+stola%5C%27s+gepuncht+met+metaal+en%2Fof+polyethyleen+%28PE%29++++"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1944,
+                "krnr": 0,
+                "email": "info@kunst-ine-art.com",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "IneLouise",
+                "Tussenvoegsel": "",
+                "Achternaam": "Mourick",
+                "Straat en huisnr": "Wellkamp+23+A%2FB",
+                "Postcode": "48455",
+                "Plaats": "Bad+Bentheim",
+                "Website": "www.mourick-art.com",
+                "Telefoon": "05924-0299441",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "Stijl+schilderijen%3A+tussen+abstract-+en+figuratief.%3Cbr%3EGrote+schilderijen%3A+acryl+op+doek%2C+veelal+zuidelijke+landschappen+oa.+uit+Itali%C3%AB%2C+Frankrijk%2C+Cyprus.%3Cbr%3EKleine+schilderijen+op+papier%2C+achter+glas%2C+diverse+onderwerpen.%3Cbr%3EKlein+deel+edelsteen+sieraden%2C+met+zilver++"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1945,
+                "krnr": 0,
+                "email": "h.baumann@casema.nl",
+                "kunstvorm": "glaskunst",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Erik",
+                "Tussenvoegsel": "",
+                "Achternaam": "Baumann",
+                "Straat en huisnr": "Ericalaan+1",
+                "Postcode": "3911XM",
+                "Plaats": "Rhenen",
+                "Website": "www.baumann-baumann.nl",
+                "Telefoon": "0317614111",
+                "Kunstvorm": "glaskunst",
+                "Omschrijving van het werk": "glasfusen%2C+glaswerk+op+steen+voor+buiten"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1946,
+                "krnr": 0,
+                "email": "pj-jansen@versatel.nl",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Dhr.+Paul",
+                "Tussenvoegsel": "",
+                "Achternaam": "Jansen",
+                "Straat en huisnr": "Goudwespmeent+31",
+                "Postcode": "1218GN",
+                "Plaats": "Hilversum",
+                "Website": "www.pauljansenkunstschilder.nl",
+                "Telefoon": "035+6933401",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "realistisch+en+magisch+realistisc+en+zeer+geddetailleerd"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1947,
+                "krnr": 0,
+                "email": "answijnberg@gmail.com",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Ans",
+                "Tussenvoegsel": "",
+                "Achternaam": "Wijnberg",
+                "Straat en huisnr": "Smidsweg+83",
+                "Postcode": "7441EL",
+                "Plaats": "Nijverdal",
+                "Website": "passievoorkunst.blogspot.com",
+                "Telefoon": "054-8617461",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "Mijn+grootste+passie%3A+tekenen+en+schilderen.+Bijna+dagelijks+maak+ik+een+kaartje%2C+tekening+of+schilderwerk.+Niet+omdat+het+moet+maar+omdat+ik+er+ontzettend+veel+ontspanning+en+plezier+in+vind%21+I%3Cbr%3EVaak+ontstaan+er+tijdens+het+aquarelleren+onvoorstelbare+mooie+kleuren%3B+de+interactie+tussen+papier%2C+verf+en+water+blijft+me+boeien.%3Cbr%3EInteresses%3A+tekenen%2C+schilderen%2C+muziek%2C+kunst+en+cultuur%2C+films%2C+natuur%2C+lezen%2C+breien%2C+kleding"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1948,
+                "krnr": 0,
+                "email": "betty.kloosterman@chello.nl",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Betty",
+                "Tussenvoegsel": "",
+                "Achternaam": "Kloosterman",
+                "Straat en huisnr": "Borculoseweg+16",
+                "Postcode": "7151MP",
+                "Plaats": "Eibergen",
+                "Website": "www.bettykloosterman.nl",
+                "Telefoon": "0545-472992",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "Aquarellen+door+een+speciale+techniek+op+doek+geschilderd."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1949,
+                "krnr": 0,
+                "email": "jjaspers@samenzien.nl",
+                "kunstvorm": "tekeningen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Janny",
+                "Tussenvoegsel": "",
+                "Achternaam": "Jaspers+Reesink",
+                "Straat en huisnr": "Amstelvlietstraat+409",
+                "Postcode": "1096GG",
+                "Plaats": "Amsterdam",
+                "Website": "www.mooietekeningen.com",
+                "Telefoon": "0653515497",
+                "Kunstvorm": "tekeningen",
+                "Omschrijving van het werk": "zie+website"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1950,
+                "krnr": 0,
+                "email": "info@hbtewierik.nl",
+                "kunstvorm": "keramiek",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Hans+en+Bernadette",
+                "Tussenvoegsel": "te",
+                "Achternaam": "Wierik",
+                "Straat en huisnr": "Dorpsstraat+5",
+                "Postcode": "6049BV",
+                "Plaats": "Herten",
+                "Website": "www.hbtewierik.nl",
+                "Telefoon": "0475-311754",
+                "Kunstvorm": "keramiek",
+                "Omschrijving van het werk": "Bernadette+maakt+keramische+vrouwenfiguren%3Cbr%3EHans+maakt+keramische+sculpturen+ze+zijn+weerbestendig"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1951,
+                "krnr": 0,
+                "email": "zita.vannoordenburg@hetnet.nl",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Zita",
+                "Tussenvoegsel": "van",
+                "Achternaam": "Noordenburg",
+                "Straat en huisnr": "Beekweide+81",
+                "Postcode": "8162XN",
+                "Plaats": "Epe",
+                "Website": "www.zita.vannoordenburg%40kunstinzicht.nl",
+                "Telefoon": "0578-627767",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "Zita+maakt+acryl+schilderijen+met+organische+vormen+in+felle+kleuren+die+harmonie+uitstralen.%3Cbr%3EHet+formaat+is+rond+100+cm"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1952,
+                "krnr": 0,
+                "email": "info@sarahmichael.nl",
+                "kunstvorm": "keramiek",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Sarah",
+                "Tussenvoegsel": "",
+                "Achternaam": "Michael",
+                "Straat en huisnr": "Regenvlietweg+14",
+                "Postcode": "2191BC",
+                "Plaats": "De+Zilk",
+                "Website": "www.sarahmichael.nl",
+                "Telefoon": "0252523863",
+                "Kunstvorm": "keramiek",
+                "Omschrijving van het werk": "Kleurrijk+keramiek+beelden+en+functionele+objecten%2C+zoals+schalen+en+theepotten."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1953,
+                "krnr": 0,
+                "email": "info@mooischilderij.nl",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Bart",
+                "Tussenvoegsel": "",
+                "Achternaam": "McLeod",
+                "Straat en huisnr": "Schutterspad+99",
+                "Postcode": "6866EV",
+                "Plaats": "Heelsum",
+                "Website": "www.mooischilderij.nl",
+                "Telefoon": "06-51518971",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "Schilderijen%2C+vooral+landschappen.+Mogelijk+enkele+beelden+van+hout."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1954,
+                "krnr": 0,
+                "email": "jacques.kroon@live.nl",
+                "kunstvorm": "keramiek",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Jacques+J.M.",
+                "Tussenvoegsel": "",
+                "Achternaam": "Kroon",
+                "Straat en huisnr": "Sint+Jozephstraat++76",
+                "Postcode": "2806WL",
+                "Plaats": "Gouda",
+                "Website": "facebook%3A+Keramiek+Jacques+Kroon",
+                "Telefoon": "0182+511407",
+                "Kunstvorm": "keramiek",
+                "Omschrijving van het werk": "Raku+gestookte+sculpturen.%3Cbr%3E%3Cbr%3EIk+maak+de+sculpturen+met+als+thema+vrouwen%2C+zowel+figuratief%2C+realistisch%2C+krachtig%2C+sensueel+als+stout.+Met+een+tijdloos+uiterlijk."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1955,
+                "krnr": 0,
+                "email": "nobelhorst@hotmail.com",
+                "kunstvorm": "-anders-",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Hazel",
+                "Tussenvoegsel": "",
+                "Achternaam": "Kreuning",
+                "Straat en huisnr": "Dinsdagstraat+8",
+                "Postcode": "1335LH",
+                "Plaats": "Almere",
+                "Website": "www.hazelscoffee.nl",
+                "Telefoon": "036-5373899",
+                "Kunstvorm": "-anders-",
+                "Omschrijving van het werk": "Graag+zou+ik+ook+dit+jaar+willen+deelnemen+met+een+koffiestand+aan+het+evenement.+Via+Marco+Elders+van+Darboven+koffie+heb+ik+met+succes+en+veel+plezier+deelgenomen+in+2014.+Ook+dit+jaar+kijk+ik+er+naar+uit+een+plaats+te+kunnen+reserveren.+Wij+verkopen+koffie+to+go%2C+en+zoetigheden+als+muffins%2C+cake%5C%27s%2C+en+koeken."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1956,
+                "krnr": 0,
+                "email": "info@angeliqueweijers.nl",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Angelique",
+                "Tussenvoegsel": "",
+                "Achternaam": "Weijers",
+                "Straat en huisnr": "Vlotgras+6",
+                "Postcode": "3893GW",
+                "Plaats": "3893+GW",
+                "Website": "www.angeliqueweijers.nl",
+                "Telefoon": "06-36152759",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "Olieverf+schilderijen+en+kunstkaarten"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1957,
+                "krnr": 0,
+                "email": "sylviakuipertap@chello.nl",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Sylvia",
+                "Tussenvoegsel": "",
+                "Achternaam": "Kuiper+tap",
+                "Straat en huisnr": "Binnen+walevest+36",
+                "Postcode": "3311AB",
+                "Plaats": "Dordrecht",
+                "Website": "www.artisyl.nl",
+                "Telefoon": "0648546579",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "figuratief+en+fantasierijk+werk+met+een+eigen+manier+van+omgaan+met+materiaal+en+techniek"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1958,
+                "krnr": 0,
+                "email": "jokevanolm@hetnet.nl",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Joke",
+                "Tussenvoegsel": "van",
+                "Achternaam": "Olm-Koenen",
+                "Straat en huisnr": "Joh.Geradtsweg+100",
+                "Postcode": "1222PX",
+                "Plaats": "Hilversum",
+                "Website": "www.jokekoenen.nl",
+                "Telefoon": "035-6835283",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "+REALISTISCH+FIJNSCHILDEREN%3Cbr%3EOlieverf+schilderijen%2C+acrylverf-miniaturen+en+zwart%2Fwit+tekeningen+allen+in+fijnschildertechniek"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1959,
+                "krnr": 0,
+                "email": "info@babkemoelee.nl",
+                "kunstvorm": "beelden",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Babke",
+                "Tussenvoegsel": "",
+                "Achternaam": "Moelee",
+                "Straat en huisnr": "Bunderstraat+82",
+                "Postcode": "6231EL",
+                "Plaats": "Meerssen",
+                "Website": "www.babkemoelee.nl",
+                "Telefoon": "043-8522085",
+                "Kunstvorm": "beelden",
+                "Omschrijving van het werk": "Lief%2C+figuratief+bronzen+beelden+met+veel+beweging+en+expressie.+"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1960,
+                "krnr": 0,
+                "email": "an.rijpers@hotmail.com",
+                "kunstvorm": "keramiek",
+                "krsoort": "kunstenaar",
+                "Voornaam": "An",
+                "Tussenvoegsel": "",
+                "Achternaam": "Rijpers",
+                "Straat en huisnr": "De+vriesstraat+18",
+                "Postcode": "5612KK",
+                "Plaats": "Eindhoven",
+                "Website": "",
+                "Telefoon": "0402431604",
+                "Kunstvorm": "keramiek",
+                "Omschrijving van het werk": "zaagselgestookt+handgevormd+keramiek"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1961,
+                "krnr": 0,
+                "email": "judithstam@xmsnet.nl",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Judith",
+                "Tussenvoegsel": "",
+                "Achternaam": "Stam",
+                "Straat en huisnr": "Marsweg+5",
+                "Postcode": "3893GB",
+                "Plaats": "3893+GB",
+                "Website": "www.judithstam.nl",
+                "Telefoon": "036-5223533",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "figuratieve%2C+illustratieve+olieverfschilderijen+met+een+glimlach."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1962,
+                "krnr": 0,
+                "email": "info@buten.org",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Iwan",
+                "Tussenvoegsel": "",
+                "Achternaam": "Wilke",
+                "Straat en huisnr": "It+Butlan+63",
+                "Postcode": "8604VJ",
+                "Plaats": "Sneek",
+                "Website": "www.buten.org",
+                "Telefoon": "0644825117",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "Voornamelijk+groot+formaat+acryl+op+doek+schilderijen%2C+figuratief+en+een+enkele+abstract."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1963,
+                "krnr": 0,
+                "email": "leostravers@hotmail.com",
+                "kunstvorm": "glaskunst",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Leo",
+                "Tussenvoegsel": "",
+                "Achternaam": "Stravers",
+                "Straat en huisnr": "Marisbergstraat+10+10",
+                "Postcode": "1333ZN",
+                "Plaats": "Almere+buiten",
+                "Website": "www.costra.nl",
+                "Telefoon": "0611881053",
+                "Kunstvorm": "glaskunst",
+                "Omschrijving van het werk": "Glasfusing+objecten++%2C+raamhangers+%2C+vaak+met+versteend+hout+als+steun."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1964,
+                "krnr": 0,
+                "email": "jmrumping@planet.nl",
+                "kunstvorm": "keramiek",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Nettie",
+                "Tussenvoegsel": "",
+                "Achternaam": "Rumping",
+                "Straat en huisnr": "Zeestraat+97",
+                "Postcode": "2211XD",
+                "Plaats": "Noordwijkerhout",
+                "Website": "www.nettierumping.nl",
+                "Telefoon": "0252-377176",
+                "Kunstvorm": "keramiek",
+                "Omschrijving van het werk": "Plaquettes+samengesteld+uit+verschillende+kleuren+klei.+%3Cbr%3EVogels+en+dieren+met+een+mooie+huid."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1965,
+                "krnr": 0,
+                "email": "Mieky.Broeckx@gmail.com",
+                "kunstvorm": "-anders-",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Mieky",
+                "Tussenvoegsel": "",
+                "Achternaam": "Broeckx",
+                "Straat en huisnr": "Buijs+Ballotweg+44",
+                "Postcode": "3771VJ",
+                "Plaats": "De+Bilt",
+                "Website": "geen",
+                "Telefoon": "0617982720",
+                "Kunstvorm": "-anders-",
+                "Omschrijving van het werk": "Gepimpte+schoenen%2C+laarzen%2C+tassen%2C%3Cbr%3ESieraden+uit+gerecylde+materialen.%3Cbr%3EGerecylde+kleine+woonaccessoires.%3Cbr%3EGepimpte+en+gerecylde+kleding+voor+volwassenen%2C+kinderen+en+baby%5C%27s.+Alles+van+en+met+verschillende+materialen.+Hierbij+het+%2Fzoveel+mogelijk+gebruik+makend+van+materialen+die+voor+mij+recyclebaar+zijn."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1966,
+                "krnr": 0,
+                "email": "johan.eskens@gmail.com",
+                "kunstvorm": "beelden",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Johan",
+                "Tussenvoegsel": "",
+                "Achternaam": "Eskens",
+                "Straat en huisnr": "Kuiperstraat+47",
+                "Postcode": "2801NR",
+                "Plaats": "Gouda",
+                "Website": "www.behance.net%2FJohanEskens",
+                "Telefoon": "0631362632",
+                "Kunstvorm": "beelden",
+                "Omschrijving van het werk": "Beelden+uit+steen+en+van+brons+op+basis+van+intu%C3%AFtie+en+gevoel+ontstaan.+Figuratief+en+abstract+wisselen+elkaar+af."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1967,
+                "krnr": 0,
+                "email": "a.hoefnagels5@chello.nl",
+                "kunstvorm": "glaskunst",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Antoon",
+                "Tussenvoegsel": "",
+                "Achternaam": "Hoefnagels",
+                "Straat en huisnr": "Hooidries++54",
+                "Postcode": "5725BX",
+                "Plaats": "Asten",
+                "Website": "www.andiniro.nl",
+                "Telefoon": "0493-691554",
+                "Kunstvorm": "glaskunst",
+                "Omschrijving van het werk": "Mijn+werkstukken+worden+allemaal+gemaakt+van+oud+vensterglas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1968,
+                "krnr": 0,
+                "email": "bertkoerts59@gmail.com",
+                "kunstvorm": "objecten",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Bert",
+                "Tussenvoegsel": "",
+                "Achternaam": "Koerts",
+                "Straat en huisnr": "Blenkenkamp+3",
+                "Postcode": "7151EC",
+                "Plaats": "Eibergen",
+                "Website": "www.bertkoerts.nl",
+                "Telefoon": "06-13567452",
+                "Kunstvorm": "objecten",
+                "Omschrijving van het werk": "buitenbeelden+van+recyclemateriaal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1969,
+                "krnr": 0,
+                "email": "tychovanzomeren@gmail.com",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Tycho",
+                "Tussenvoegsel": "van",
+                "Achternaam": "Zomeren",
+                "Straat en huisnr": "Zeeltstraat+159",
+                "Postcode": "3525TE",
+                "Plaats": "Utrecht",
+                "Website": "tychovzo.deviantart.com",
+                "Telefoon": "0645195480",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "Schilderijen+en+kleine+installaties+gemaakt+met+uiteenlopende+technieken."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1970,
+                "krnr": 0,
+                "email": "tonvg@yahoo.com",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Ton+%2F+A.H.",
+                "Tussenvoegsel": "van",
+                "Achternaam": "Geelen",
+                "Straat en huisnr": "Prinses+Irenestraat+26",
+                "Postcode": "7391DV",
+                "Plaats": "Twello",
+                "Website": "www.animar.nl+%28per+1+maart%2C+nog+in+aanbouw%29",
+                "Telefoon": "0621800216",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "Schilderkunst+figuratief%3Cbr%3EUnieke+techniek%2C+doordat+onderlaag+eerst+bewerkt+is+met+zand%2C+koffiedik%2C+thee+of+zout"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1971,
+                "krnr": 0,
+                "email": "gbrok@telfort.nl",
+                "kunstvorm": "handbeschilderde kleding",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Johanna",
+                "Tussenvoegsel": "den",
+                "Achternaam": "Brok",
+                "Straat en huisnr": "Aalbes++5",
+                "Postcode": "3892XS",
+                "Plaats": "Zeewolde",
+                "Website": "face-book",
+                "Telefoon": "036-5246169",
+                "Kunstvorm": "handbeschilderde+kleding",
+                "Omschrijving van het werk": "handbeschilderde+zijde+met+als+eindresultaat+sjaals+en+stola%5C%27s.+"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1972,
+                "krnr": 0,
+                "email": "info@tdevisser.nl",
+                "kunstvorm": "keramiek",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Thea",
+                "Tussenvoegsel": "de",
+                "Achternaam": "Visser",
+                "Straat en huisnr": "Boekdrukkersgilde+2",
+                "Postcode": "3994XV",
+                "Plaats": "Houten",
+                "Website": "www.tdevissr.nl",
+                "Telefoon": "030-6373443",
+                "Kunstvorm": "keramiek",
+                "Omschrijving van het werk": "Grappige+keramiek+met+de+hand+opgebouwd+met+hier+en+daar+een+kleurrijk+accent"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1973,
+                "krnr": 0,
+                "email": "knol.jong@quicknet.nl",
+                "kunstvorm": "edelsmeden",
+                "krsoort": "kunstenaar",
+                "Voornaam": "David",
+                "Tussenvoegsel": "",
+                "Achternaam": "Knol",
+                "Straat en huisnr": "Burg.+schoutsenstraat++45a",
+                "Postcode": "1671EB",
+                "Plaats": "Medemblik",
+                "Website": "www.zilverpakhuis.nl",
+                "Telefoon": "0624782533",
+                "Kunstvorm": "edelsmeden",
+                "Omschrijving van het werk": "zilversmid+%3A+grote+zilverobjecten+en+handgesmeede+zilveren+sieraden"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1974,
+                "krnr": 0,
+                "email": "geertlemmers@yahoo.com",
+                "kunstvorm": "fotografie",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Geert+GAM",
+                "Tussenvoegsel": "",
+                "Achternaam": "Lemmers",
+                "Straat en huisnr": "Jan+van+galenstraat++1",
+                "Postcode": "6651ZK",
+                "Plaats": "DRUTEN",
+                "Website": "www.geertlemmers.nl",
+                "Telefoon": "06-46086373",
+                "Kunstvorm": "fotografie",
+                "Omschrijving van het werk": "In+my+newest+project+I+investigate+and+analyse+the+live+of+people+as+a+makeble+world+in+relation+to+nature+and+architecture+and+the+%5Bre-%5Dcreation+of+these+parameters.+This+piece+of+art+is+printed+as+Lambda+on+Fuji+Chrystal+DPII.+Mounted+on+Dibond+behind+acryl+glass+complete+with+aluminium+mounting+system++This+artwork+comes+with+a+Certificate+of+Authenticity%2C+signed+by+the+artist"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1975,
+                "krnr": 0,
+                "email": "deefsmits@gmail.com",
+                "kunstvorm": "pentekeningen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Deef",
+                "Tussenvoegsel": "",
+                "Achternaam": "Smits",
+                "Straat en huisnr": "Saliehof+20",
+                "Postcode": "3544CG",
+                "Plaats": "Utrecht",
+                "Website": "www.deefsmits.nl",
+                "Telefoon": "0648673388",
+                "Kunstvorm": "pentekeningen",
+                "Omschrijving van het werk": "Pentekeningen+en+pen+en+inkt+met+waterverf+illustraties"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1976,
+                "krnr": 0,
+                "email": "peter@petervanbeveren.net",
+                "kunstvorm": "sculptures",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Peter",
+                "Tussenvoegsel": "van",
+                "Achternaam": "Beveren",
+                "Straat en huisnr": "Valkhof++12",
+                "Postcode": "3334BW",
+                "Plaats": "Zwijndrecht",
+                "Website": "www.petervanbeveren.net+%2F+www.petervanbeveren.exto.nl",
+                "Telefoon": "0653526268",
+                "Kunstvorm": "sculptures",
+                "Omschrijving van het werk": "Houten+sculpturen+vaak+in+combinatie+met+leisteen-+metaal+of+glas.%3Cbr%3EHouten+stenen+en+houten+hangertjes."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1977,
+                "krnr": 0,
+                "email": "simongort@hotmail.nl",
+                "kunstvorm": "-anders-",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Simon",
+                "Tussenvoegsel": "",
+                "Achternaam": "Gort",
+                "Straat en huisnr": "Waaloord+43",
+                "Postcode": "3448BE",
+                "Plaats": "Woerden",
+                "Website": "",
+                "Telefoon": "0348-417232",
+                "Kunstvorm": "-anders-",
+                "Omschrijving van het werk": "Organisch+gevormde+ladekastjes+uit+1+stuk.+In+diverse+groottes+en+meer+dan+200+houtsoorten."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1978,
+                "krnr": 0,
+                "email": "info@debbyvandemheen.nl",
+                "kunstvorm": "beelden",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Debby",
+                "Tussenvoegsel": "van+de",
+                "Achternaam": "Mheen",
+                "Straat en huisnr": "Giselbertstraat+12",
+                "Postcode": "5616CM",
+                "Plaats": "Eindhoven",
+                "Website": "debbyvandemheen.nl",
+                "Telefoon": "0613269073",
+                "Kunstvorm": "beelden",
+                "Omschrijving van het werk": "Mijn+werk+is+gemaakt+van+klei+of+brons.+Het+zijn+beelden+van+voornamelijk+de+vrouw.+Nadruk+ligt+op+vorm%2C+houding+en+het+lijnenspel+om+beweging+en+emotie+te+verbeelden.+De+beelden+van+klei+worden+geglazuurd+om+de+beweging+te+benadrukken+of+juist+kracht+en+emotie+te+geven+aan+het+beeld.+Inspiratiebronnen+zijn+mythologische+verhalen+en+figuren.+De+4+elementen+water%2C+aarde%2C+vuur+%26+lucht%2C+de+seizoenen+en+dans."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1979,
+                "krnr": 0,
+                "email": "info@anssieraden.nl",
+                "kunstvorm": "sieraden",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Ans++l",
+                "Tussenvoegsel": "",
+                "Achternaam": "De+lange",
+                "Straat en huisnr": "Stationsstraat+33",
+                "Postcode": "7481JB",
+                "Plaats": "Haaksbergen",
+                "Website": "www.anssieraden.nl",
+                "Telefoon": "0625524334",
+                "Kunstvorm": "sieraden",
+                "Omschrijving van het werk": "Het+ontwerpen+en+vervaardigen+van+sieraden+van+diverse+materialen."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1980,
+                "krnr": 0,
+                "email": "w.degoyer@gmail.com",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Wil",
+                "Tussenvoegsel": "",
+                "Achternaam": "De+Goyer",
+                "Straat en huisnr": "Dianadreef+159",
+                "Postcode": "3561AA",
+                "Plaats": "Utrecht",
+                "Website": "www.wildegoyer.nl",
+                "Telefoon": "030-2687795",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "realistische+olieverf+schilderijen+en+ik+maak+gebruik+van+de+17de+eeuwse+olieverf+techniek"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1981,
+                "krnr": 0,
+                "email": "s.a.richard@hotmail.com",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Simone",
+                "Tussenvoegsel": "",
+                "Achternaam": "Richard",
+                "Straat en huisnr": "Homeruslaan+1",
+                "Postcode": "3707GM",
+                "Plaats": "Zeist",
+                "Website": "www.simonerichard.nl",
+                "Telefoon": "030-6921515",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "Vooral+paarden+en+honden+in+opdracht.+Daarnaast+vrij+werk+."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1982,
+                "krnr": 0,
+                "email": "info@trudidekreek.nl",
+                "kunstvorm": "-anders-",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Trudi",
+                "Tussenvoegsel": "de",
+                "Achternaam": "Kreek",
+                "Straat en huisnr": "Polarisstraat+66",
+                "Postcode": "8303AE",
+                "Plaats": "Emmeloord",
+                "Website": "www.trudidekreek.nl",
+                "Telefoon": "06-27317225",
+                "Kunstvorm": "-anders-",
+                "Omschrijving van het werk": "unieke+handgemaakte+tassen+van+kunstleer"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1983,
+                "krnr": 0,
+                "email": "info@jewelstohave.com",
+                "kunstvorm": "sieraden",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Marja",
+                "Tussenvoegsel": "",
+                "Achternaam": "Postema",
+                "Straat en huisnr": "Bakboord+39",
+                "Postcode": "3823TB",
+                "Plaats": "Amersfoort",
+                "Website": "www.jewesltohave.com",
+                "Telefoon": "0649958145",
+                "Kunstvorm": "sieraden",
+                "Omschrijving van het werk": "Unieke+opvallende+sieraden+%28verschillende+technieken%29+gemaakt++van+uiteenlopende+materialen.+"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1984,
+                "krnr": 0,
+                "email": "info@hermanvanloon.nl",
+                "kunstvorm": "-anders-",
+                "krsoort": "kunstenaar",
+                "Voornaam": "H.F.",
+                "Tussenvoegsel": "van",
+                "Achternaam": "Loon",
+                "Straat en huisnr": "Rekerstraat+27",
+                "Postcode": "1823BB",
+                "Plaats": "Alkmaar",
+                "Website": "www.hermanvanloon.nl",
+                "Telefoon": "072-5152053",
+                "Kunstvorm": "-anders-",
+                "Omschrijving van het werk": "Wandpbjekten+abstrakt"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1985,
+                "krnr": 0,
+                "email": "jvdstad@gmail.com",
+                "kunstvorm": "sieraden",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Joyce+L",
+                "Tussenvoegsel": "van+der",
+                "Achternaam": "Stad",
+                "Straat en huisnr": "Hyacintenlaan+32zw",
+                "Postcode": "2015BD",
+                "Plaats": "Haarlem",
+                "Website": "Facebook+Page+Goede+Sier+Joyce",
+                "Telefoon": "023+5322043",
+                "Kunstvorm": "sieraden",
+                "Omschrijving van het werk": "Ik+vervaardig+sieraden+van+edelstenen+en+zilver+en+heb+mij++Balinese+Snake+Weaving+eigen+gemaakt.+Leerschool+Bali."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1986,
+                "krnr": 0,
+                "email": "kunstblik@gmail.com",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Erik",
+                "Tussenvoegsel": "",
+                "Achternaam": "Loman",
+                "Straat en huisnr": "Hondelink++49",
+                "Postcode": "7482KJ",
+                "Plaats": "Haaksbergen",
+                "Website": "www.erikloman.com",
+                "Telefoon": "06-14206853",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "schilderijen+en+beschilderde+objecten+waaronder+hout+en+beschilderd+glas+"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1987,
+                "krnr": 0,
+                "email": "annekenijman@telfort.nl",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Anneke",
+                "Tussenvoegsel": "",
+                "Achternaam": "Nijman-haver",
+                "Straat en huisnr": "Beatrixlaan+82",
+                "Postcode": "1947HS",
+                "Plaats": "Beverwijk",
+                "Website": "www.anneke-nijman.nl",
+                "Telefoon": "0251821290",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "aquarel+en+aqryl+schilderijen+web+site+bijgewerkt+11-03-2015"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1988,
+                "krnr": 0,
+                "email": "info@rikuri.nl",
+                "kunstvorm": "viltwerk",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Riekje",
+                "Tussenvoegsel": "",
+                "Achternaam": "Kuipers",
+                "Straat en huisnr": "Waalstraat+8",
+                "Postcode": "8052AE",
+                "Plaats": "Hattem",
+                "Website": "www.rikuri.nl",
+                "Telefoon": "038-4447017",
+                "Kunstvorm": "viltwerk",
+                "Omschrijving van het werk": "textieldesign%2C+vormgegeven+in+kleding%2C+accessoires+en+schilderijen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1989,
+                "krnr": 0,
+                "email": "annettenl@planet.nl",
+                "kunstvorm": "sieraden",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Annette",
+                "Tussenvoegsel": "",
+                "Achternaam": "Nieuwland",
+                "Straat en huisnr": "Hobbemastraat+29",
+                "Postcode": "3817PR",
+                "Plaats": "Amersfoort",
+                "Website": "",
+                "Telefoon": "033-4622062",
+                "Kunstvorm": "sieraden",
+                "Omschrijving van het werk": "Draagobjecten+van+diverse+materialen.+Voor+uitgebreide+informatie+zie+mijn+website."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1990,
+                "krnr": 0,
+                "email": "carlastamsnijder@yahoo.com",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Carla",
+                "Tussenvoegsel": "",
+                "Achternaam": "Stamsnijder",
+                "Straat en huisnr": "De+Hazelaar+21",
+                "Postcode": "7615RH",
+                "Plaats": "Harbrinkhoek",
+                "Website": "",
+                "Telefoon": "0546-871413",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "Aquarellen%2C+Tekeningen%2C+gemengde+techniek.++Grootformaat+70-90%2C+80-100+cm"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1991,
+                "krnr": 0,
+                "email": "e.kamp837@chello.nl",
+                "kunstvorm": "-anders-",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Elizabeth",
+                "Tussenvoegsel": "van+der",
+                "Achternaam": "Kamp",
+                "Straat en huisnr": "Zandbank+114",
+                "Postcode": "8224ZH",
+                "Plaats": "Lelystad",
+                "Website": "Bettys+sieraden+en+Arts+en+Crafts+Lelystad+facebook",
+                "Telefoon": "0320-846079",
+                "Kunstvorm": "-anders-",
+                "Omschrijving van het werk": "sieraden+van+textiel%2C+leer%2C+papier%2C+friendly+plastic%2C+zijdegaren"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1992,
+                "krnr": 0,
+                "email": "genia.hofste@hccnet.nl",
+                "kunstvorm": "viltwerk",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Genia",
+                "Tussenvoegsel": "",
+                "Achternaam": "Hofst%C3%A9",
+                "Straat en huisnr": "Sperwerlaan+84",
+                "Postcode": "3738EL",
+                "Plaats": "Maartensdijk",
+                "Website": "",
+                "Telefoon": "06+52637643",
+                "Kunstvorm": "viltwerk",
+                "Omschrijving van het werk": "vilten+accessoires%2C+sjaals%2C+gebreide+kleding%2C+geweven+omslagdoeken%2C+Art+Yarn."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1993,
+                "krnr": 0,
+                "email": "diny@naturaljewels.nl",
+                "kunstvorm": "sieraden",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Diny",
+                "Tussenvoegsel": "van+de",
+                "Achternaam": "Lustgraaf",
+                "Straat en huisnr": "Mahlerpad+7",
+                "Postcode": "3906ZM",
+                "Plaats": "Veenendaal",
+                "Website": "www.naturaljewels.nl",
+                "Telefoon": "0619742560",
+                "Kunstvorm": "sieraden",
+                "Omschrijving van het werk": "Authentieke+sieraden%2C+gemaakt+uit+draad+van+Sterling+zilver.+Er+wordt+niet+gesoldeerd+of+gelijmd%2C+alles+met+de+hand+in+elkaar+gezet+en+vaak+in+combinatie+met+halfedelstenen.+"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1994,
+                "krnr": 0,
+                "email": "titusdejong@chello.nl",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Titus",
+                "Tussenvoegsel": "de",
+                "Achternaam": "Jong",
+                "Straat en huisnr": "Veerstraat+112",
+                "Postcode": "6701DZ",
+                "Plaats": "Wageningen",
+                "Website": "www.visendejong.nl",
+                "Telefoon": "0317-426568",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "sumi-e+schilderijen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1995,
+                "krnr": 0,
+                "email": "w.vries411@chello.nl",
+                "kunstvorm": "glaskunst",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Ilse",
+                "Tussenvoegsel": "de",
+                "Achternaam": "Vries-Schmid",
+                "Straat en huisnr": "Zeemanstraat++22",
+                "Postcode": "6706KC",
+                "Plaats": "Wageningen",
+                "Website": "www.ilsedevries.exto.nl",
+                "Telefoon": "0317-411452",
+                "Kunstvorm": "glaskunst",
+                "Omschrijving van het werk": "Gegraveerd+glaskristal+%5Bmomenteel+enige+in+NL%5D%3Cbr%3EGefused+bullseye+glas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1996,
+                "krnr": 0,
+                "email": "dini@reurei.com",
+                "kunstvorm": "sieraden",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Dini",
+                "Tussenvoegsel": "",
+                "Achternaam": "Schepers",
+                "Straat en huisnr": "Barchemseweg+3+b",
+                "Postcode": "7261DA",
+                "Plaats": "Ruurlo",
+                "Website": "",
+                "Telefoon": "0573-452353",
+                "Kunstvorm": "sieraden",
+                "Omschrijving van het werk": "Sieraden+gemaakt+van+half+edelsteen+en+Tsjechisch+glas+Demo+kralenwerk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1997,
+                "krnr": 0,
+                "email": "t.geurtsen@hotmail.com",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Theo",
+                "Tussenvoegsel": "",
+                "Achternaam": "Geurtsen",
+                "Straat en huisnr": "Krommeweg+7A",
+                "Postcode": "3762DB",
+                "Plaats": "Soest",
+                "Website": "www.theosschilderijen.nl",
+                "Telefoon": "0623469588",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "Realistische+schilderijen+in+acryl+en+olieverf"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1998,
+                "krnr": 0,
+                "email": "sergedevriesart@gmail.com",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Serge",
+                "Tussenvoegsel": "de",
+                "Achternaam": "Vries",
+                "Straat en huisnr": "Langeweg+54",
+                "Postcode": "7315CX",
+                "Plaats": "Apeldoorn",
+                "Website": "www.sergedevries.nl",
+                "Telefoon": "06-22647823",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "Serge+de+Vries+maakt+realistische+olieverfschilderijen.+Alles+wat+hij+ziet%2C+wil+hij+vastleggen.+Een+apothekersflesje%2C+een+dinkytoy%2C+een+plantenspuit%2C+een+kannetje+of+een+koffieschepje.+Het+zijn+de+alledaagse+voorwerpen+waar+menigeen+niet+bij+stil+staat.+Juist+dat+maakt+de+schilderijen+bijzonder+en+eigen.+De+schilderijen+zijn+van+afstand+bijna+fotografisch%2C+maar+dichterbij+is+de+verfstreek+duidelijk+zichtbaar.+Serge+studeerde+in+1995+af+aan+de+Hogeschool+voor+de+Kunsten+in+Utrecht.+Hij+woont+en+werkt+in+Apeldoorn.+Het+atelier+is+op+afspraak+te+bezoeken.+"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1999,
+                "krnr": 0,
+                "email": "info@miekelankveld.nl",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Mieke",
+                "Tussenvoegsel": "",
+                "Achternaam": "Lankveld",
+                "Straat en huisnr": "Ananasstraat+4",
+                "Postcode": "6543ZJ",
+                "Plaats": "Nijmegen",
+                "Website": "www.miekelankveld.nl",
+                "Telefoon": "024-3774542",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "Olieverfschilderijen%2C+zeegezichten+op+grote+doeken"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2000,
+                "krnr": 0,
+                "email": "hhad@ziggo.nl",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Henri",
+                "Tussenvoegsel": "",
+                "Achternaam": "Horeman",
+                "Straat en huisnr": "Laan+van+Minsweerd+59",
+                "Postcode": "3583BT",
+                "Plaats": "Utrecht",
+                "Website": "www.henrihoreman.nl",
+                "Telefoon": "06-26152772",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "Olieverfschilderijen+op+paneel."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2001,
+                "krnr": 0,
+                "email": "info@ontwerpgeheimen.nl",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Danielle",
+                "Tussenvoegsel": "",
+                "Achternaam": "Malestein",
+                "Straat en huisnr": "Parmentierstraat+11",
+                "Postcode": "3772MS",
+                "Plaats": "Barneveld",
+                "Website": "www.ontwerpgeheimen.nl",
+                "Telefoon": "0621953261",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "Zowel+met+mijn+kunst+als+mijn+fotografie+wordt+ik+ge%C3%AFnspireerd+door+de+natuur.+Op+het+doek+uit+dat+zich+in+een+bomenserie%2C+genaamd+%5C%27%5C%27+Vrije+vogels+%5C%27%5C%27.+De+inspiratie+haal+ik+uit+het+gevoel+van+vrijheid+wat+ik+ervaar+bij+het+hardlopen+in+het+bos+op+de+Utrechtse+Heuvelrug+waar+ik+woon.+In+mijn+fotografie+uit+mijn+liefde+voor+de+natuur+zich+in+een+serie+natuurstructuren.+Ik+haal+de+structuren+bewust+uit+hun+omgeving+om+ze+zo+vol+tot+hun+recht+te+laten+komen.+In+dit+project+daag+ik+mijzelf+uit+om+nog+beter+naar+de+omgeving+te+kijken.+Een+selectie+van+de+beelden+heb+ik+laten+printen+op+plexiglas.+De+beelden+zijn+krachtig+door+hun+eenvoud.+Ze+zijn+intrigerend+en+toegankelijk+voor+een+breed+publiek.++"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2002,
+                "krnr": 0,
+                "email": "edward@art-for-you.nl",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Edward",
+                "Tussenvoegsel": "",
+                "Achternaam": "Saager",
+                "Straat en huisnr": "Koningstraat++25",
+                "Postcode": "7315HS",
+                "Plaats": "Apeldoorn",
+                "Website": "www.art-for-you.nl",
+                "Telefoon": "06-28556956",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "abstract+kunst%3Cbr%3Emixed+media%3Cbr%3E+"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2003,
+                "krnr": 0,
+                "email": "designelena@t-online.de",
+                "kunstvorm": "sculptures",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Elena",
+                "Tussenvoegsel": "",
+                "Achternaam": "Graure-Manta",
+                "Straat en huisnr": "Klosengartenstr.+96+Klosen",
+                "Postcode": "ERFTSTADT",
+                "Plaats": "Erftstadt",
+                "Website": "www.designelena.de",
+                "Telefoon": "0049-2235-7170",
+                "Kunstvorm": "sculptures",
+                "Omschrijving van het werk": "GlasKunst+und+Glasdesign+"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2004,
+                "krnr": 0,
+                "email": "art-wilfried@t-online.de",
+                "kunstvorm": "beelden",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Wilfried",
+                "Tussenvoegsel": "",
+                "Achternaam": "Wessling",
+                "Straat en huisnr": "+",
+                "Postcode": "",
+                "Plaats": "",
+                "Website": "www.art-wilfried.webnode.com",
+                "Telefoon": "0049-2235-7170",
+                "Kunstvorm": "beelden",
+                "Omschrijving van het werk": "pop+art"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2005,
+                "krnr": 0,
+                "email": "b.j.berns@kpnplanet.nl",
+                "kunstvorm": "beelden",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Gerda",
+                "Tussenvoegsel": "",
+                "Achternaam": "Berns+bolder",
+                "Straat en huisnr": "Margrietstraat+1",
+                "Postcode": "6851LC",
+                "Plaats": "Huissen",
+                "Website": "",
+                "Telefoon": "026-3253967",
+                "Kunstvorm": "beelden",
+                "Omschrijving van het werk": "objecten+in+glas+steen+en+brons"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2006,
+                "krnr": 0,
+                "email": "info@nojram.nl",
+                "kunstvorm": "recycled design",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Marjon",
+                "Tussenvoegsel": "van",
+                "Achternaam": "Trigt",
+                "Straat en huisnr": "Admiralengracht+220%2F3",
+                "Postcode": "1056TJ",
+                "Plaats": "Amsterdam",
+                "Website": "www.nojram.nl",
+                "Telefoon": "020-6890304",
+                "Kunstvorm": "recycled+design",
+                "Omschrijving van het werk": "Ik+maak+unieke+tassen+van+recycled+rubber+van+fiets-+tractor-+en+autobinnenband.+U+kunt+desgewenst+meer+lezen+over+mijn+motto+en+achtergrond+op+mijn+site.+Ieder+exemplaar+is+uniek%21"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2007,
+                "krnr": 0,
+                "email": "johnyrusthoven@hotmail.com",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "John",
+                "Tussenvoegsel": "",
+                "Achternaam": "Rusthoven",
+                "Straat en huisnr": "Aletta+jacobsstraat+11",
+                "Postcode": "3404XD",
+                "Plaats": "Ijsselstein",
+                "Website": "kunstpakkers.nl",
+                "Telefoon": "06-47139107",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "Moderne+kunst%2C+waar+de+vrolijke+afbeeldingen+en+frisse+kleuren+een+glimlach+uitlokken."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2008,
+                "krnr": 0,
+                "email": "rinavankilsdonk782@gmail.com",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Rina",
+                "Tussenvoegsel": "van",
+                "Achternaam": "Kilsdonk",
+                "Straat en huisnr": "Jan+Scheplaan+2",
+                "Postcode": "3705LJ",
+                "Plaats": "Zeist",
+                "Website": "www.rinavankilsdonk.nl",
+                "Telefoon": "030-6991374",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "uitgangs+punt+oude+culturen%3Cbr%3Eacryl+"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2009,
+                "krnr": 0,
+                "email": "info@haveglas.nl",
+                "kunstvorm": "glaskunst",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Sascha",
+                "Tussenvoegsel": "",
+                "Achternaam": "Hacska",
+                "Straat en huisnr": "Dorpsstraat+75",
+                "Postcode": "3732HH",
+                "Plaats": "E+Bilt",
+                "Website": "www.haveglas.nl",
+                "Telefoon": "030-2210541",
+                "Kunstvorm": "glaskunst",
+                "Omschrijving van het werk": "Glas+sprankelt%2C+neemt+licht+op+en+straalt+weer+uit%2C+het+kan+spiegelen%2C+doorlaatbaar+zijn+of+mat.+Mijn+fascinatie+voor+glas+komt+voort+uit+het+feit+dat+het+een+levend+materiaal+is%2C+glas+vloeit.+Wanneer+laat+je+het+glas+stoppen+met+vloeien%3F+Welke+vormen+en+structuren+houd+je+vast%3F%3Cbr%3E%3Cbr%3EMijn+glaskunst+is+in+twee+groepen+te+verdelen%2C+toegepast+en+autonoom%3B%3Cbr%3EMijn+toegepaste+werk+bestaat+voornamelijk+uit+glas+voor+verlichtingsarmaturen+van+ons+bedrijf+Kunst+%26+Licht.+Dit+zijn+soms+indrukwekkende+lichtkunst+installaties%21+Verder+maak+ik+schalen%2C+serviesgoed%2C+raampanelen%2C+foto%5C%27s+in+glas%2C+glastegels+etc.+Fascinerend+is+het+om+op+een+minimale+manier+een+maximaal+beeldend+effect+te+bereiken.+Het+is+zoeken+naar+de+combinatie+van+lijnen%2C+vlakken%2C+kleuren+en+structuren.%3Cbr%3E%3Cbr%3EBinnen+mijn+autonome+werk+gaat+het+om+de+emotionele+communicatie+en+spanning+tussen+materiaal+en+voorwerp.+Dit+kan+versterkend+of+vervreemdend+werken.+Boeiend+is+het+om+glas+te+combineren+met+materialen+als+wol%2C+staalwol+hout+en+ijzer.+Wat+doet+hard+op+zacht+of+hard+op+hard+en+hoe+wordt+de+weerspiegeling+be%C3%AFnvloed.+Je+zou+mijn+kunst+kunnen+zien+als+%E2%80%9Cbeeldende+po%C3%ABzie%E2%80%9D.+Kijken%2C+laten+komen%2C+proberen%2C+weer+kijken%2C+neerzetten%2C+laten+zijn%2C+wachten%2C+doen+en+dan+is+het+ineens+klaar...%3Cbr%3E%3Cbr%3EIn+mijn+atelier+is+het+tevens+mogelijk+diverse+glasfuse+workshops+te+volgen.+Zowel+individueel+als+voor+grotere+groepen."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2010,
+                "krnr": 0,
+                "email": "j.c.schelfhout@outlook.com",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Jos",
+                "Tussenvoegsel": "",
+                "Achternaam": "Schelfhout",
+                "Straat en huisnr": "Beukvaren+25",
+                "Postcode": "2661PE",
+                "Plaats": "Bergschenhoek",
+                "Website": "www.jos-schelfhout.nl",
+                "Telefoon": "06-20544159",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "abstract%2C+zeer+kleurrijk+en+zeer+expressief.+Reactie+van+kijkers+zijn+zeer+enthousiast.+Met+mijn+enthousiaste+inbreng+erbij+zorgt+dit+voor+een+goede+bijdrage+aan+uw+markt%3Cbr%3Een+goede+bijdrage+aan+uw+kunstmarkt"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2011,
+                "krnr": 0,
+                "email": "pcjwerner@hotmail.com",
+                "kunstvorm": "keramiek",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Paul",
+                "Tussenvoegsel": "",
+                "Achternaam": "Werner",
+                "Straat en huisnr": "Kerklaan+79",
+                "Postcode": "3731EG",
+                "Plaats": "De+bilt",
+                "Website": "www.pwkeramiek.nl",
+                "Telefoon": "030-2129968",
+                "Kunstvorm": "keramiek",
+                "Omschrijving van het werk": "Porselein+en+steengoed+klei.Alles+op+de+draaischijf+vervaardigd."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2012,
+                "krnr": 0,
+                "email": "fafiegerits@kpnplanet.nl",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "J.M.",
+                "Tussenvoegsel": "",
+                "Achternaam": "Fafi%C3%A9-+Gerits",
+                "Straat en huisnr": "Biltstein+26",
+                "Postcode": "3732GT",
+                "Plaats": "De+Bilt",
+                "Website": "www.annekegerits.nl",
+                "Telefoon": "0306624657",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "gevarieerde+werken+in+acryl+en+pastel."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2013,
+                "krnr": 0,
+                "email": "info@ansjacobsphotoart.com",
+                "kunstvorm": "fotografie",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Ans",
+                "Tussenvoegsel": "",
+                "Achternaam": "Jacobs",
+                "Straat en huisnr": "Jeneverbes+93",
+                "Postcode": "5345JB",
+                "Plaats": "Oss",
+                "Website": "ansjacobsphotoart.com",
+                "Telefoon": "06-42362216",
+                "Kunstvorm": "fotografie",
+                "Omschrijving van het werk": "fotografie+op+de+modernste+materialen+als+dibond%2C+acryl+en+aluminium.+Ook+foto%5C%27s+op+porselein"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2014,
+                "krnr": 0,
+                "email": "ebouwkamp@me.com",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Eveline",
+                "Tussenvoegsel": "",
+                "Achternaam": "Bouwkamp",
+                "Straat en huisnr": "Wolter+Heukelslaan+73",
+                "Postcode": "3581SV",
+                "Plaats": "Utrecht",
+                "Website": "1001kleuren.nl",
+                "Telefoon": "06-48018239",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "Vrolijke%2C+kleurrijke+schilderijen+van+Utrecht%2C+Nederland+en+buitenland.+Daarnaast+kleine+inlijstingen+en+ansichtkaarten"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2015,
+                "krnr": 0,
+                "email": "molenbeer@xs4all.nl",
+                "kunstvorm": "sieraden",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Joke",
+                "Tussenvoegsel": "",
+                "Achternaam": "Van+der+Molen+-+de+Beer",
+                "Straat en huisnr": "Groenekanseweg+98",
+                "Postcode": "3731AJ",
+                "Plaats": "De+Bilt",
+                "Website": "www.jokevandermolen.nl",
+                "Telefoon": "030-2205335",
+                "Kunstvorm": "sieraden",
+                "Omschrijving van het werk": "Sieraden+en+beelden+hebben+meer+gemeen+dan+ogenschijnlijk+lijkt.+%3Cbr%3EBeide+soort+objecten+maken+onderdeel+uit+van+de+3-dimensionale+creativiteit.%3Cbr%3EDaarom+is+het+werk+van+de+zusjes+Joke+en+Ellen+ook+prima+te+combineren.+Joke+maakt+beelden+en+daarnaast+uitbundige+sieraden+met+grote+kralen+en+o.a+veren.%3Cbr%3EDe+sieraden+van+Ellen+zijn+subtiel%2C+geregen+met+kleine+kralen+in+allerlei+vormen+en+kleuren.+"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2016,
+                "krnr": 0,
+                "email": "tonny.de.brouwer@home.nl",
+                "kunstvorm": "beelden",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Tonny",
+                "Tussenvoegsel": "de",
+                "Achternaam": "Brouwer",
+                "Straat en huisnr": "Beatrixstraat+8",
+                "Postcode": "5051NB",
+                "Plaats": "Goirle",
+                "Website": "www.tonnydebrouwer.nl",
+                "Telefoon": "013-5347891",
+                "Kunstvorm": "beelden",
+                "Omschrijving van het werk": "unieke+bronzen+beelden+en+beeldjes.%3Cbr%3Ealsook+kopertekeningen+in+combinatie+met+glas."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2017,
+                "krnr": 0,
+                "email": "info@galeriezeven.nl",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Aly",
+                "Tussenvoegsel": "",
+                "Achternaam": "Van+der+Woude",
+                "Straat en huisnr": "De+Loet+150",
+                "Postcode": "1902BN",
+                "Plaats": "Castricum",
+                "Website": "www.galeriezeven.nl",
+                "Telefoon": "0251-675974",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "Abstract+op+doek"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2018,
+                "krnr": 0,
+                "email": "hamilto0@xs4all.nl",
+                "kunstvorm": "tekeningen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Hans",
+                "Tussenvoegsel": "",
+                "Achternaam": "Hamilton",
+                "Straat en huisnr": "Wiekslag+856",
+                "Postcode": "2903VN",
+                "Plaats": "CAPELLE+AAN+DEN+IJSSEL",
+                "Website": "",
+                "Telefoon": "0619918580",
+                "Kunstvorm": "tekeningen",
+                "Omschrijving van het werk": "Tekeningen+in+pastel+abstract+figuratief+"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2019,
+                "krnr": 0,
+                "email": "info@larsvandegoor.nl",
+                "kunstvorm": "fotografie",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Lars",
+                "Tussenvoegsel": "van+de",
+                "Achternaam": "Goor",
+                "Straat en huisnr": "Heggerank+144",
+                "Postcode": "7242MN",
+                "Plaats": "Lochem",
+                "Website": "larsvandegoor.nl",
+                "Telefoon": "0636183147",
+                "Kunstvorm": "fotografie",
+                "Omschrijving van het werk": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2020,
+                "krnr": 0,
+                "email": "itiepostma@live.nl",
+                "kunstvorm": "papierobjecten",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Itie",
+                "Tussenvoegsel": "",
+                "Achternaam": "Postma",
+                "Straat en huisnr": "Roemer+visscherlaan+49",
+                "Postcode": "3705SC",
+                "Plaats": "Zeist",
+                "Website": "",
+                "Telefoon": "030-6960012",
+                "Kunstvorm": "papierobjecten",
+                "Omschrijving van het werk": "Paper+Art.++Ietjes+anders.%3Cbr%3EVaak+elementen+uit+de+natuur+in+diverse+voorwerpen+verwerkt+bv.+in+kleine+schilderijtjes%2C+vouw-+en+kabouterwensboekjes%2C+kaarten%2C+kadotasjes%2C+doosjes+en+broches.+%3Cbr%3EKleine+paper-art+voorwerpjes%2C+leuk+om+weg+te+geven.%3Cbr%3E"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2021,
+                "krnr": 0,
+                "email": "mirandavanbruchem@hotmail.com",
+                "kunstvorm": "beelden",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Miranda",
+                "Tussenvoegsel": "",
+                "Achternaam": "Van+Bruchem",
+                "Straat en huisnr": "Veldstraat+39",
+                "Postcode": "7071CB",
+                "Plaats": "Ulft",
+                "Website": "www.mysteryart.nl",
+                "Telefoon": "06-21983463",
+                "Kunstvorm": "beelden",
+                "Omschrijving van het werk": "unieke+werken+die+gewoonweg+niet+bestaan+gemaakt+van+was+en+in+het+brons+gegoten.%3Cbr%3Evan+ieder+beeld+is+er+maar+%C3%A9%C3%A9n%3Cbr%3Eik+werk+in+opdracht+en+maak+vrijwerk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2022,
+                "krnr": 0,
+                "email": "karinmpl@icloud.com",
+                "kunstvorm": "beelden",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Karin",
+                "Tussenvoegsel": "",
+                "Achternaam": "Vorstenbosch-Zwankhuizen",
+                "Straat en huisnr": "Vanenburgerhout+12",
+                "Postcode": "3845EJ",
+                "Plaats": "Harderwijk",
+                "Website": "In+de+maak",
+                "Telefoon": "06+23551292",
+                "Kunstvorm": "beelden",
+                "Omschrijving van het werk": "Beelden+in+Steen%3Cbr%3E%3Cbr%3Edoor+%3Cbr%3E%3Cbr%3E%3Cbr%3EKarin+Vorstenbosch-Zwankhuizen%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%5C%22+De+zon%2C+regen%2C+de+wind%2C%3Cbr%3E%3Cbr%3Ewaarin+ze+leefde%2C%3Cbr%3E%3Cbr%3E+Hebben+haar+verweerd+en+de+materie+blootgelegd%2C%3Cbr%3E%3Cbr%3E+waarin+ze+werd+gemaakt%2C+%E2%80%93+de+steen+%E2%80%93%3Cbr%3E%3Cbr%3E+De+steen+die+er+al+was%2C%3Cbr%3E%3Cbr%3E+Een+eeuwigheid+voordat+ze+zelf+bestond+%E2%80%9C.%3Cbr%3E%3Cbr%3E%3Cbr%3ERutger+Kopland+uit+%E2%80%9DWat+water+achterliet%E2%80%9D+-+Van+Oorschot+2004%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3EIn+mijn+werk+ligt+de+essentie+in+het+kijken+en+het+stilstaan+bij+de+ruwe+vorm+van+de+steen.%3Cbr%3EDit+vormt+voor+mij+een+uitgangspunt+om+richting+te+geven+aan+het+beeld.+Het+beeld+wordt++gevormd+door+stukken+weg+te+halen%2C+te+raspen+en+te+schuren.%3Cbr%3EHet+is+een+intensief+en+ontspannend+proces.+De+focus+van+je+aandacht+vraagt+om+in+het+hier-en-nu+te+zijn+en+het+loslaten+van+%E2%80%98verwachtingen+en+eisen%E2%80%99+door+telkens+in+te+spelen+op+wat+de+steen+doet.++%3Cbr%3EBij+het+polijsten+van+de+steen+ervaar+ik+telkens+weer+een+zekere+nieuwsgierigheid%2C+verbazing+en+verwondering+van+wat+de+steen+laat+zien+in+zijn+oorspronkelijkheid+van+aders+en+kleuren.+%3Cbr%3EDe+zo+harde+steen+in+aanvang%2C+krijgt+een+zachte+uitstraling+en+een+zekere+kwetsbaarheid.%0C%3Cbr%3E%3Cbr%3E%3Cbr%3Ekunst+op+Maat+%C3%A8n+Actief+in+liguri%C3%8B%2C+Itali%C3%AB%3Cbr%3E%3Cbr%3ELaat+je+inspireren+door+de+natuur%2C+de+typisch+Italiaanse+authentieke+sfeer+en+cultuur.+Een+creatief+aanbod+van+beeldhouwen%2C+moza%C3%AFeken+en+diverse+teken-+en+schildertechnieken.+Vul+dit+aan+met+wandelen%2C+fietsen%2C+%E2%80%A6+en+%E2%80%98vrije+besteding%E2%80%99+tot+een+programma+OP+MAAT.%3Cbr%3EEen+paar+keer+per+jaar+verzorg+ik+een+creatief+aanbod%2C+waarbij+inspiratie+door+de+natuur%2C+culturele+bezienswaardigheden+de+uitgangspunten+vormen+voor+een+kunst-actief+verblijf.+%3Cbr%3E%E2%80%9CTra+Mare+e+Monti%E2%80%9D%2C+%E2%80%9CTussen+zee+en+bergen%E2%80%9D+is+een+veelzijdige+Italiaanse+regio+om+te+ontdekken+en+te+ervaren.+Voor+meer+informatie+nodig+ik+u+graag+uit+contact+met+mij+op+te+nemen.%3Cbr%3E%3Cbr%3E%3Cbr%3EKarin+Vorstenbosch-Zwankhuizen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2023,
+                "krnr": 0,
+                "email": "info@jokevanzinderen.com",
+                "kunstvorm": "viltwerk",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Joke",
+                "Tussenvoegsel": "van",
+                "Achternaam": "Zinderen",
+                "Straat en huisnr": "Rijpstraat+27",
+                "Postcode": "3814TT",
+                "Plaats": "Amersfoort",
+                "Website": "www.jokevanzinderen.com",
+                "Telefoon": "0640293368",
+                "Kunstvorm": "viltwerk",
+                "Omschrijving van het werk": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2024,
+                "krnr": 0,
+                "email": "T.L.Pons@uu.nl",
+                "kunstvorm": "houtdraaiwerk",
+                "krsoort": "culturele instelling",
+                "Voornaam": "Thijs",
+                "Tussenvoegsel": "",
+                "Achternaam": "Pons",
+                "Straat en huisnr": "Veldlaan+26",
+                "Postcode": "3737AP",
+                "Plaats": "Groenekan",
+                "Website": "www.houtdraaiers-de-lekstroom.nl%2F",
+                "Telefoon": "0346-213218",
+                "Kunstvorm": "houtdraaiwerk",
+                "Omschrijving van het werk": "Wij+laten+onze+houtdraaiwerkstukken+zien."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2025,
+                "krnr": 0,
+                "email": "jgabel@casema.nl",
+                "kunstvorm": "keramiek",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Joke",
+                "Tussenvoegsel": "",
+                "Achternaam": "Gabel",
+                "Straat en huisnr": "Parklaan+1",
+                "Postcode": "3755HG",
+                "Plaats": "Eemnes",
+                "Website": "www.kleicarrousel.nl",
+                "Telefoon": "0355387996",
+                "Kunstvorm": "keramiek",
+                "Omschrijving van het werk": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2026,
+                "krnr": 0,
+                "email": "tako@studiotako.com",
+                "kunstvorm": "objecten",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Tako+T",
+                "Tussenvoegsel": "",
+                "Achternaam": "Knaap",
+                "Straat en huisnr": "Poolsterlaan+2",
+                "Postcode": "3721HH",
+                "Plaats": "Bilthoven",
+                "Website": "www.studiotako.com",
+                "Telefoon": "0620377220",
+                "Kunstvorm": "objecten",
+                "Omschrijving van het werk": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2027,
+                "krnr": 0,
+                "email": "el.franken@casema.nl",
+                "kunstvorm": "-anders-",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Elly",
+                "Tussenvoegsel": "",
+                "Achternaam": "Franken",
+                "Straat en huisnr": "Meers+10",
+                "Postcode": "4841EV",
+                "Plaats": "Prinsenbeek",
+                "Website": "www.ellyfranken%40casema.nl",
+                "Telefoon": "076-5415526",
+                "Kunstvorm": "-anders-",
+                "Omschrijving van het werk": "Hoeden%2C+tassen+van+diverse+materialen%2C+vilt+en+sieraden"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2028,
+                "krnr": 0,
+                "email": "mique@lasance.nl",
+                "kunstvorm": "beelden",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Mique",
+                "Tussenvoegsel": "",
+                "Achternaam": "Lasance",
+                "Straat en huisnr": "Paltzerweg+169",
+                "Postcode": "3734CK",
+                "Plaats": "Den+Dolder",
+                "Website": "artmiqs.com",
+                "Telefoon": "0628264468",
+                "Kunstvorm": "beelden",
+                "Omschrijving van het werk": "ArtMiQs+%7C+handgemaakt+en+hartverwarmend.+Mijn+beelden+zijn+gemaakt+met+liefde+voor+kleuren%2C+vormen+en+%E2%80%98echte%E2%80%99+materialen+waarbij+ik+uiteenlopende+technieken+combineer.+Bijna+elk+beeld+is+uniek+en+heeft+een+stoer+of+juist+liefdevolle+zachte+uitstraling+geeft.+Geen+massaproductie%2C+maar+in+kleine+oplage+of+zelf+uniek+vervaardigde+beelden."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2029,
+                "krnr": 0,
+                "email": "atelierpetine@gmail.com",
+                "kunstvorm": "sieraden",
+                "krsoort": "kunstenaar",
+                "Voornaam": "C.b.m.",
+                "Tussenvoegsel": "van",
+                "Achternaam": "Vliet",
+                "Straat en huisnr": "Tjeerdsraklaan+56",
+                "Postcode": "3544PD",
+                "Plaats": "Utrecht",
+                "Website": "www.atelierpetine.nl",
+                "Telefoon": "06-10649008",
+                "Kunstvorm": "sieraden",
+                "Omschrijving van het werk": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2030,
+                "krnr": 0,
+                "email": "postpatries@ziggo.nl",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Patricia",
+                "Tussenvoegsel": "",
+                "Achternaam": "Buvelot",
+                "Straat en huisnr": "H.+Roland+Holststraat+18",
+                "Postcode": "3511MV",
+                "Plaats": "Utrecht",
+                "Website": "www.patriciabuvelot.nl",
+                "Telefoon": "06+42457222",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "Ik+maak+werk+geinspireerd+op+de+natuur+in+acryl+en+aquarel.+Ik+ga+uit+van+de+spontane+beweging+van+de+kleur%2C+een+avontuur+op+zich.+Daarnaast+heb+ik+een+tijd+stillevens%2C+gedekte+tafels+als+onderwerp+gehad.+Ik+heb+het+meeste+plezier+in+buiten+schilderen.+"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2031,
+                "krnr": 0,
+                "email": "paultebraak@gmail.com",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Dhr+P.+J.",
+                "Tussenvoegsel": "te",
+                "Achternaam": "Braak",
+                "Straat en huisnr": "Koekoekstraat+54",
+                "Postcode": "3815SJ",
+                "Plaats": "Amersfoort",
+                "Website": "www.destrekenvanpaul.nl",
+                "Telefoon": "0621910589",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "portret+schilder"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2032,
+                "krnr": 0,
+                "email": "Adaheidbuurt8@kpnmail.nl",
+                "kunstvorm": "sieraden",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Ada",
+                "Tussenvoegsel": "",
+                "Achternaam": "Heidbuurt",
+                "Straat en huisnr": "Westerwolde+50",
+                "Postcode": "8245DD",
+                "Plaats": "Lelystad",
+                "Website": "",
+                "Telefoon": "0320+226143",
+                "Kunstvorm": "sieraden",
+                "Omschrijving van het werk": "Objecten+en+sieraden+van+rubber%2Cvilt%2Cgemanupileerd+organza+%2Cmetaaldraad+"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2033,
+                "krnr": 0,
+                "email": "c.gathier@zonnet.nl",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Catherine",
+                "Tussenvoegsel": "",
+                "Achternaam": "Gathier",
+                "Straat en huisnr": "Langeweg+171",
+                "Postcode": "4133AW",
+                "Plaats": "Vianen",
+                "Website": "www.catherinegathier.nl",
+                "Telefoon": "06-13236944",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "Realsitische+kunst%2C+landschappen%2C+stillevens%2C+zeegezichten+en+muurschilderingen.+Schildercursus+en+schildervakanties"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2034,
+                "krnr": 0,
+                "email": "dees2006@hotmail.com",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Desire",
+                "Tussenvoegsel": "",
+                "Achternaam": "Verdijk",
+                "Straat en huisnr": "Mesdaglaan+11",
+                "Postcode": "3401NE",
+                "Plaats": "Ijsselstein",
+                "Website": "",
+                "Telefoon": "030+2518475",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "kleurrijke+doeken+met+diverse+schildertechnieken+behandeld.+Spuiten%2C+olieverf+en+modelleerpasta"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2035,
+                "krnr": 0,
+                "email": "fstaman@hotmail.com",
+                "kunstvorm": "sieraden",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Fenneke",
+                "Tussenvoegsel": "",
+                "Achternaam": "Staman",
+                "Straat en huisnr": "Fanny+Blankers+Koenstraat+27",
+                "Postcode": "6833LA",
+                "Plaats": "Arnhem",
+                "Website": "www.hangerencollier.nl",
+                "Telefoon": "0617072469",
+                "Kunstvorm": "sieraden",
+                "Omschrijving van het werk": "Halssieraden.+"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2036,
+                "krnr": 0,
+                "email": "let@planet.nl",
+                "kunstvorm": "-anders-",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Nicolette",
+                "Tussenvoegsel": "de",
+                "Achternaam": "Nijs",
+                "Straat en huisnr": "Parkzichtlaan+146",
+                "Postcode": "3544MN",
+                "Plaats": "Utrecht",
+                "Website": "www.etsy.com%2Fshop%2Fwatletje",
+                "Telefoon": "06-51895072",
+                "Kunstvorm": "-anders-",
+                "Omschrijving van het werk": "Ik+maak+van%2C+door+mijzelf+bewerkt+canvas%2C+hoezen%2C+opbergzakken+en+vaasjes.+Daarnaast+maak+ik+schilderijen+met%2C+voornamelijk%2C+het+thema+verval."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2037,
+                "krnr": 0,
+                "email": "harriet@damave.nl",
+                "kunstvorm": "keramiek",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Harriet",
+                "Tussenvoegsel": "",
+                "Achternaam": "Damave",
+                "Straat en huisnr": "Van+Ostadestraat+209k",
+                "Postcode": "1073TN",
+                "Plaats": "Amsterdam",
+                "Website": "www.houseofharriet.nl",
+                "Telefoon": "0627185869",
+                "Kunstvorm": "keramiek",
+                "Omschrijving van het werk": "Hand-gemaakte+en+handbeschilderde++porseleinen+sieraden+en+tegels."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2038,
+                "krnr": 0,
+                "email": "alkine@vanhezik.net",
+                "kunstvorm": "",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Hhhh",
+                "Tussenvoegsel": "",
+                "Achternaam": "Hhh",
+                "Straat en huisnr": "Jjjjj+56",
+                "Postcode": "3737BC",
+                "Plaats": "Groenekan",
+                "Website": "www%2Cvanalkine.nl",
+                "Telefoon": "06-11867016",
+                "Kunstvorm": "",
+                "Omschrijving van het werk": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2039,
+                "krnr": 0,
+                "email": "claudysarts@gmail.com",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Claudia",
+                "Tussenvoegsel": "",
+                "Achternaam": "Van+der+Willik",
+                "Straat en huisnr": "Jar+de+Savornin+Lohmanstraat+17",
+                "Postcode": "2982RA",
+                "Plaats": "Ridderkerk",
+                "Website": "www.claudy-art.nl",
+                "Telefoon": "0629085293",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "Verschillende+stijlen+%3A+Modern+en+Street+Art"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2040,
+                "krnr": 0,
+                "email": "Info@verfdokter.com",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Robert",
+                "Tussenvoegsel": "",
+                "Achternaam": "Brink",
+                "Straat en huisnr": "Camminghalaan+75",
+                "Postcode": "3981GE",
+                "Plaats": "Bunnik",
+                "Website": "www.verfdokter.com",
+                "Telefoon": "06-29571243",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "Surrealistisch+werk+met+streetart+en%2C+graffiti+invloeden"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2041,
+                "krnr": 0,
+                "email": "info@briljantsieraden.nl",
+                "kunstvorm": "edelsmeden",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Arjanne+A.J.",
+                "Tussenvoegsel": "",
+                "Achternaam": "Aarts",
+                "Straat en huisnr": "Pelikaanlaan+16",
+                "Postcode": "7331BP",
+                "Plaats": "Apeldoorn",
+                "Website": "www.briljantsieraden.nl",
+                "Telefoon": "0657325462",
+                "Kunstvorm": "edelsmeden",
+                "Omschrijving van het werk": "Handgemaakte+sieraden+van+zilver%2C+parels+en+mineralen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2042,
+                "krnr": 0,
+                "email": "marjalingsma@mac.com",
+                "kunstvorm": "fotografie",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Marja",
+                "Tussenvoegsel": "",
+                "Achternaam": "Lingsma",
+                "Straat en huisnr": "Doddegrasweg+39",
+                "Postcode": "1313AX",
+                "Plaats": "Almere",
+                "Website": "www.marjalingsma.nl",
+                "Telefoon": "06-22622138",
+                "Kunstvorm": "fotografie",
+                "Omschrijving van het werk": "Fotografische+kunst%3Cbr%3E%5C%27tussen+verbeelding+en+realiteit%5C%27+die+je+verleidt+om+een+oog+naar+buiten+en+%3Cbr%3Ehet+andere+naar+binnen+te+keren.%3Cbr%3E"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2043,
+                "krnr": 0,
+                "email": "christiane_hamblok@hotmail.com",
+                "kunstvorm": "",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Christiane",
+                "Tussenvoegsel": "",
+                "Achternaam": "Hamblok",
+                "Straat en huisnr": "Hofstraat+25",
+                "Postcode": "3550",
+                "Plaats": "Heusden-Zolder",
+                "Website": "",
+                "Telefoon": "%2B32+11536955",
+                "Kunstvorm": "keramiek",
+                "Omschrijving van het werk": "Handgevormde+keramiek+%28+eigen+creaties+%29"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2044,
+                "krnr": 0,
+                "email": "Raph.janssen@telenet.be",
+                "kunstvorm": "beelden",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Raph",
+                "Tussenvoegsel": "",
+                "Achternaam": "Janssen",
+                "Straat en huisnr": "Koeweerd+63",
+                "Postcode": "3650",
+                "Plaats": "Dilsen-Stokkem",
+                "Website": "Www.raph.exto.nl",
+                "Telefoon": "0032476684808",
+                "Kunstvorm": "beelden",
+                "Omschrijving van het werk": "Zie+website.%3Cbr%3EWww.raph.exto.nl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2045,
+                "krnr": 0,
+                "email": "info@trudievanhaaster.nl",
+                "kunstvorm": "recycled design",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Trudie",
+                "Tussenvoegsel": "",
+                "Achternaam": "Van+Haaster",
+                "Straat en huisnr": "Grote+beer+23",
+                "Postcode": "3721RL",
+                "Plaats": "Bilthoven",
+                "Website": "www.trudievanhaaster.nl",
+                "Telefoon": "0642159009",
+                "Kunstvorm": "recycled+design",
+                "Omschrijving van het werk": "Ik+maak+o.a+tasjes+van+gerecycled+materiaal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2046,
+                "krnr": 0,
+                "email": "sanha1211@hotmail.com",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Sanha",
+                "Tussenvoegsel": "",
+                "Achternaam": "Kang",
+                "Straat en huisnr": "Orkaden+50",
+                "Postcode": "3825ZA",
+                "Plaats": "Amersfoort",
+                "Website": "www.sanha-kang.weebly.com",
+                "Telefoon": "0624286891",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "Decoratieve+schilderkunst+met+Aziatische+%28Koreaanse%29+invloeden."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2047,
+                "krnr": 0,
+                "email": "jasvandien@hotmail.com",
+                "kunstvorm": "glaskunst",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Jasper",
+                "Tussenvoegsel": "van",
+                "Achternaam": "Dien",
+                "Straat en huisnr": "Klipper+4",
+                "Postcode": "1276BP",
+                "Plaats": "Huizen",
+                "Website": "",
+                "Telefoon": "035-5265569",
+                "Kunstvorm": "glaskunst",
+                "Omschrijving van het werk": "Demonstraties+van+het+maken+van+boro-glaze+colliers+doormiddel+van+glasbrander+en+glasbewerkings-technieken.+%28leuk+stukje+entertaining+voor+iedereen%29%3Cbr%3E+%3Cbr%3E%3Cbr%3Everkoop+van+de+handgemaakte+kunstwerkjes%3Cbr%3E%3Cbr%3E"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2048,
+                "krnr": 0,
+                "email": "thewildblue@kpnmail.nl",
+                "kunstvorm": "linoleumsneden",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Eline",
+                "Tussenvoegsel": "",
+                "Achternaam": "J%C3%B6rg",
+                "Straat en huisnr": "Paltzerweg+127",
+                "Postcode": "3722JD",
+                "Plaats": "BILTHOVEN",
+                "Website": "www.thewildblue.nl",
+                "Telefoon": "06-22606246",
+                "Kunstvorm": "linoleumsneden",
+                "Omschrijving van het werk": "Mijn+werk+is+ge%C3%AFnspireerd+door+de+natuur+en+de+wereld+om+me+heen.+Ik+probeer+de+essentie+van+een+dier+of+plant+te+vangen.+De+linoleumsnede+vind+ik+daarvoor+een+ideaal+medium+omdat+ik+daarin+gedetailleerd+kan+werken+en+toch+een+zekere+mate+van+abstractie+kan+behouden."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2049,
+                "krnr": 0,
+                "email": "info@gertfris.nl",
+                "kunstvorm": "sculptures",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Gert",
+                "Tussenvoegsel": "",
+                "Achternaam": "Fris",
+                "Straat en huisnr": "Roosje+voslanden+6",
+                "Postcode": "7542VC",
+                "Plaats": "Enschede",
+                "Website": "www.gertfris.nl",
+                "Telefoon": "0534775382",
+                "Kunstvorm": "sculptures",
+                "Omschrijving van het werk": "bronzen+beelden"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2050,
+                "krnr": 0,
+                "email": "Ilse@ilsdilse.com",
+                "kunstvorm": "sieraden",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Ilse",
+                "Tussenvoegsel": "",
+                "Achternaam": "Diels",
+                "Straat en huisnr": "Wittestraat+116",
+                "Postcode": "2020",
+                "Plaats": "Antwerpen+%28Kiel%29",
+                "Website": "www.ilsdilse.com+%28is+nog+in+de+maak%29",
+                "Telefoon": "0496%2F420886",
+                "Kunstvorm": "sieraden",
+                "Omschrijving van het werk": "Mijn+juwelen+zijn+vervaardigd+in+zilver.+Mijn+stijl+is+eerder+strak+dan+rond.+De+ringen+kunnen+ter+plaatsen+verkleind%2Fvergroot+worden.+Als+iemand+een+idee+heeft%2C+kan+dit+samen+gerealiseerd+worden.+Ze+kunnen+ook+juwelen+bestellen+die+ik+thuis+nog+zal+maken."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2051,
+                "krnr": 0,
+                "email": "ashtischuit@gmail.com",
+                "kunstvorm": "tekeningen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Ashti",
+                "Tussenvoegsel": "",
+                "Achternaam": "Schuit",
+                "Straat en huisnr": "Uitdammerdorpsstraat+1",
+                "Postcode": "1154PR",
+                "Plaats": "Uitdam",
+                "Website": "",
+                "Telefoon": "06-81430006",
+                "Kunstvorm": "tekeningen",
+                "Omschrijving van het werk": "Dichtbij-afbeeldingen+van+boomstammen+getekend%2Fgeschilderd+met+aquarelpotloden+op+kleine+houten+paneeltjes.+Oud+hout+herinnert+op+deze+wijze+aan+zijn+oorsprong.+De+textuur+en+tekening+van+het+hout+vormen+een+wezenlijk+onderdeel+van+de+afbeelding."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2052,
+                "krnr": 0,
+                "email": "c.a.h.melchers@gmail.com",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "C.A.H.",
+                "Tussenvoegsel": "",
+                "Achternaam": "Melchers",
+                "Straat en huisnr": "Zandkamp++2",
+                "Postcode": "6851GE",
+                "Plaats": "Huissen",
+                "Website": "www.cormelchers.nl",
+                "Telefoon": "026-3257425",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "Na%C3%AFef+expressieve+schilderijen+acryl+op+doek"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2053,
+                "krnr": 0,
+                "email": "woutneutkens@gmail.com",
+                "kunstvorm": "sculptures",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Wout",
+                "Tussenvoegsel": "",
+                "Achternaam": "Neutkens",
+                "Straat en huisnr": "De+Clercqstraat+2-3hoo",
+                "Postcode": "1052NC",
+                "Plaats": "Amsterdam",
+                "Website": "www.woutneutkens.com",
+                "Telefoon": "0647544846",
+                "Kunstvorm": "sculptures",
+                "Omschrijving van het werk": "We+maken+sculpturen%2C+design+potjes+etc...%3Cbr%3ESculpturen+en+design+potjes+zijn+van+recycled+karton+gemaakt+bekleed+met+recycled+stoffen+%28zijden%2C+linnen+etc..%29%3Cbr%3EPrijzen+zijn+tussen+50+en+250+euro%3Cbr%3ESchilderijen+%28als+we+die+meenemen%29+zijn+gemaakt+met+acrylverf%2C+prijzen+liggen+tussen+de+150+en+1500+euro%3Cbr%3E"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2054,
+                "krnr": 0,
+                "email": "info@anneliekerintjema.nl",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Annelieke",
+                "Tussenvoegsel": "",
+                "Achternaam": "Rintjema",
+                "Straat en huisnr": "Provincialeweg+oost+23",
+                "Postcode": "2851AA",
+                "Plaats": "Haastrecht",
+                "Website": "www.anneliekerintjema.nl",
+                "Telefoon": "0642142733",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "grote+schilderijen+waar+van+dichtbij+meer+in+te+zien+is."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2055,
+                "krnr": 0,
+                "email": "lensinks@xs4all.nl",
+                "kunstvorm": "schilderijen",
+                "krsoort": "kunstenaar",
+                "Voornaam": "Saskia",
+                "Tussenvoegsel": "",
+                "Achternaam": "Lensink",
+                "Straat en huisnr": "Wierdestraat+9",
+                "Postcode": "1069VW",
+                "Plaats": "Amsterdam",
+                "Website": "www.saskialensink.com",
+                "Telefoon": "0650128859",
+                "Kunstvorm": "schilderijen",
+                "Omschrijving van het werk": "Saskia+Lensink+is+in+2014+afgestudeerd+aan+de+Wackers+academie.+Ze+schildert+realistisch+en+naar+levend+voorbeeld.+Haar+schilderijen+zijn+kleurrijk+en+haar+handschrift+is+herkenbaar.+Ze+schildert+verschillende+onderwerpen%2C+zoals+landschap%2C+tuin%2C+stilleven%2C+bloemen%2C+dieren+en+mensen.+Ze+werkt+vooral+met+olieverf%2C+maar+soms+ook+met+gouache+of+aquarel.+Daarnaast+tekent+ze+met+verschillende+materialen+zoals+grafietstift%2C+kleurpotlood+en+pastel.%3Cbr%3EVan+oktober+tot+mei+van+elk+jaar+organiseert+ze+een+inloopatelier+model+en+portretschilderen+in+haar+atelier.+%3Cbr%3E"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2056,
+                "krnr": 0,
+                "email": "zeeeend@mac.com",
+                "kunstvorm": "papier maché",
+                "krsoort": "gallerie",
+                "Tussenvoegsel": "",
+                "Achternaam": "Eijsbroek",
+                "Postcode": "3732DV",
+                "Plaats": "Burg.+de+Withstraat+12",
+                "Website": "http%3A%2F%2Fwww.kunstmarktdebilt.nl",
+                "Telefoon": "0654936778",
+                "Kunstvorm": "papier+mach%C3%A9",
+                "Omschrijving van het werk": "sadasdasdasd+a+da+sda"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2057,
+                "krnr": 0,
+                "email": "j.vanhezik@rocmn.nl",
+                "kunstvorm": "multimedia",
+                "krsoort": "culturele instelling",
+                "Tussenvoegsel": "ten",
+                "Achternaam": "Hove",
+                "Postcode": "6454+KL",
+                "Plaats": "Nieuw-Beerta",
+                "Website": "http%3A%2F%2F",
+                "Telefoon": "06-66075544",
+                "Kunstvorm": "multimedia",
+                "Omschrijving van het werk": "Leuke+multimedia+met+heel+veel+interactie.."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2058,
+                "krnr": 0,
+                "email": "niels@eijsbroek.com",
+                "kunstvorm": "tekeningen",
+                "krsoort": "kunstenaar",
+                "Tussenvoegsel": "",
+                "Achternaam": "Eijsbroek",
+                "Postcode": "3732DV",
+                "Plaats": "De+Bilt",
+                "Website": "http%3A%2F%2F",
+                "Telefoon": "0654936778",
+                "Kunstvorm": "tekeningen",
+                "Omschrijving van het werk": "Prima+vakjes+zo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1745279827236,
+                    52.10443410402
+                ]
+            }
+        }
+    ]
+}
