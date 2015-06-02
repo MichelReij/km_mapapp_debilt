@@ -35,6 +35,23 @@ var app = {
     bindEvents: function() {
         document.addEventListener('deviceready', this.onDeviceReady, false);
     },
+    onSuccess: function (position) {
+        console.log('Latitude: '          + position.coords.latitude          + '\n' +
+          'Longitude: '         + position.coords.longitude         + '\n' +
+          'Altitude: '          + position.coords.altitude          + '\n' +
+          'Accuracy: '          + position.coords.accuracy          + '\n' +
+          'Altitude Accuracy: ' + position.coords.altitudeAccuracy  + '\n' +
+          'Heading: '           + position.coords.heading           + '\n' +
+          'Speed: '             + position.coords.speed             + '\n' +
+          'Timestamp: '         + position.timestamp                + '\n');
+
+    },
+
+    onError: function (error) {
+        console.log('code: '    + error.code    + '\n' +
+          'message: ' + error.message + '\n');
+    },
+
     // deviceready Event Handler
     //
     // The scope of 'this' is the event. In order to call the 'receivedEvent'
@@ -46,25 +63,14 @@ var app = {
   		
   		$('#MapIcon').on('click', function() {
 			$('#Map').toggle();
-		});
-      
-        
-  		var map = L.map('Map').setView([52.104, 5.175], 13);
-		
-		L.tileLayer('https://{s}.tiles.mapbox.com/v3/{id}/{z}/{x}/{y}.png', {
-			maxZoom: 18,
-			attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
-				'<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
-				'Imagery � <a href="http://mapbox.com">Mapbox</a>',
-			id: 'examples.map-i875mjb7'
-		}).addTo(map);
-		
+		});  
+  				
   		$('#Map').hide();
-
-
-        
-        
-        
+                
+                options = { enableHighAccuracy: true };
+                navigator.geolocation.getCurrentPosition(this.onSuccess, this.onError, options);
+   
+               
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {

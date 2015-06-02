@@ -19,7 +19,14 @@
 var app = {
     // Application Constructor
     initialize: function() {
-        this.bindEvents();
+	   if (this.isApp()) {
+		   // We draaien binnen de app
+	      this.bindEvents();
+	   } else {
+		   // We draaien vanaf een webserver
+		   this.onDeviceReady();
+	   }
+
     },
     // Bind Event Listeners
     //
@@ -28,23 +35,65 @@ var app = {
     bindEvents: function() {
         document.addEventListener('deviceready', this.onDeviceReady, false);
     },
+    onSuccess: function (position) {
+        console.log('Latitude: '          + position.coords.latitude          + '\n' +
+          'Longitude: '         + position.coords.longitude         + '\n' +
+          'Altitude: '          + position.coords.altitude          + '\n' +
+          'Accuracy: '          + position.coords.accuracy          + '\n' +
+          'Altitude Accuracy: ' + position.coords.altitudeAccuracy  + '\n' +
+          'Heading: '           + position.coords.heading           + '\n' +
+          'Speed: '             + position.coords.speed             + '\n' +
+          'Timestamp: '         + position.timestamp                + '\n');
+
+    },
+
+    onError: function (error) {
+        console.log('code: '    + error.code    + '\n' +
+          'message: ' + error.message + '\n');
+    },
+
     // deviceready Event Handler
     //
     // The scope of 'this' is the event. In order to call the 'receivedEvent'
     // function, we must explicitly call 'app.receivedEvent(...);'
     onDeviceReady: function() {
-        app.receivedEvent('deviceready');
+	    
+      app.receivedEvent('deviceready');
+        		
+  		
+  		$('#MapIcon').on('click', function() {
+			$('#Map').toggle();
+		});  
+  				
+  		$('#Map').hide();
+                
+                options = { enableHighAccuracy: true };
+                navigator.geolocation.getCurrentPosition(this.onSuccess, this.onError, options);
+   
+               
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {
-        var parentElement = document.getElementById(id);
-        var listeningElement = parentElement.querySelector('.listening');
-        var receivedElement = parentElement.querySelector('.received');
-
-        listeningElement.setAttribute('style', 'display:none;');
-        receivedElement.setAttribute('style', 'display:block;');
-
-        console.log('Received Event: ' + id);
+	    if (this.isApp()) {
+			var parentElement = document.getElementById(id);
+			var listeningElement = parentElement.querySelector('.listening');
+			var receivedElement = parentElement.querySelector('.received');
+			
+			listeningElement.setAttribute('style', 'display:none;');
+			receivedElement.setAttribute('style', 'display:block;');
+			
+			console.log('Received Event: ' + id);
+		}
+    },
+    
+    isApp: function() {
+	   if (document.URL.indexOf("http://") === -1 && document.URL.indexOf("https://") === -1) {
+		   // We draaien binnen de app
+	      return true;
+	   } else {
+		   // We draaien vanaf een webserver
+		   return false;
+	   }
     }
 };
 
