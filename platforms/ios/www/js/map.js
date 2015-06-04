@@ -43,7 +43,7 @@ var map = L.map('map').setView([52.10451, 5.17537], 15);
 
                 });
 
-                var geojsonAjaxLayer = new L.GeoJSON.AJAX("km_map_json.php",
+                var geojsonAjaxLayer = new L.GeoJSON.AJAX("data/km_map_json.json",
                     {   onEachFeature: popUp,
                         pointToLayer: function (feature, latlng) {
 			return L.marker(latlng, {icon: mapMarker});
