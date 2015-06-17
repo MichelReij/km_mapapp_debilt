@@ -14,9 +14,10 @@
     		<script>
                 var map = L.map('map').setView([52.10451, 5.17537], 15);
 		
-		L.tileLayer('http://www.kunstmarktdebilt.nl/km_map/{z}/{x}/{y}.png', {
+		L.tileLayer('km_map/{z}/{x}/{y}.png', {
 			minZoom: 8,
-			maxZoom: 19,
+			maxZoom: 25,
+			maxNativeZoom: 21,
 			attribution: 'Kunstmarkt de Bilt',
 			tms: true			
 			}).addTo(map);

@@ -6,6 +6,7 @@
         <link rel="stylesheet" type="text/css" href="css/kmmap.css" />
         <script src="js/leaflet.js"></script>
         <script src="js/leaflet-ajax.js"></script>
+        <script type="text/javascript" src="cordova.js">            </script>
         <title>Kunstmarkt kaart</title>
     </head>
     <body>
@@ -13,9 +14,10 @@
     		<script>
                 var map = L.map('map').setView([52.10451, 5.17537], 15);
 		
-		L.tileLayer('http://www.kunstmarktdebilt.nl/km_map/{z}/{x}/{y}.png', {
+		L.tileLayer('km_map/{z}/{x}/{y}.png', {
 			minZoom: 8,
-			maxZoom: 19,
+			maxZoom: 25,
+			maxNativeZoom: 21,
 			attribution: 'Kunstmarkt de Bilt',
 			tms: true			
 			}).addTo(map);
@@ -80,34 +82,34 @@
 			}			
 		}).addTo(map);
  **/
-// onSuccess Callback
-//   This method accepts a `Position` object, which contains
-//   the current GPS coordinates
-//
-function onSuccess(position) {
-    
-    var latlng = L.latLng(position.coords.latitude, position.coords.longitude);
-    onLocationFound(latlng);
-    console.log('Latitude: '          + position.coords.latitude          + '\n' +
-          'Longitude: '         + position.coords.longitude         + '\n' +
-          'Altitude: '          + position.coords.altitude          + '\n' +
-          'Accuracy: '          + position.coords.accuracy          + '\n' +
-          'Altitude Accuracy: ' + position.coords.altitudeAccuracy  + '\n' +
-          'Heading: '           + position.coords.heading           + '\n' +
-          'Speed: '             + position.coords.speed             + '\n' +
-          'Timestamp: '         + position.timestamp                + '\n');
-}
+                // onSuccess Callback
+                //   This method accepts a `Position` object, which contains
+                //   the current GPS coordinates
+                //
+                function onSuccess(position) {
 
-// onError Callback receives a PositionError object
-//
-function onError(error) {
-    alert('code: '    + error.code    + '\n' +
-          'message: ' + error.message + '\n');
-}
+                    var latlng = L.latLng(position.coords.latitude, position.coords.longitude);
+                    onLocationFound(latlng);
+                    console.log('Latitude: '          + position.coords.latitude          + '\n' +
+                          'Longitude: '         + position.coords.longitude         + '\n' +
+                          'Altitude: '          + position.coords.altitude          + '\n' +
+                          'Accuracy: '          + position.coords.accuracy          + '\n' +
+                          'Altitude Accuracy: ' + position.coords.altitudeAccuracy  + '\n' +
+                          'Heading: '           + position.coords.heading           + '\n' +
+                          'Speed: '             + position.coords.speed             + '\n' +
+                          'Timestamp: '         + position.timestamp                + '\n');
+                }
 
-// Options: throw an error if no update is received every 30 seconds.
-//
-var watchID = navigator.geolocation.watchPosition(onSuccess, onError, { maximumAge: 3000, timeout: 5000, enableHighAccuracy: true });
+                // onError Callback receives a PositionError object
+                //
+                function onError(error) {
+                    alert('code: '    + error.code    + '\n' +
+                          'message: ' + error.message + '\n');
+                }
+
+                // Options: throw an error if no update is received every 30 seconds.
+                //
+                //var watchID = navigator.geolocation.watchPosition(onSuccess, onError, { maximumAge: 3000, timeout: 5000, enableHighAccuracy: true });
 
 
 		</script>
