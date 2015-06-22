@@ -57,33 +57,30 @@ var app = {
     // The scope of 'this' is the event. In order to call the 'receivedEvent'
     // function, we must explicitly call 'app.receivedEvent(...);'
     onDeviceReady: function() {
-	    
-      app.receivedEvent('deviceready');
-        		
-  		
-  		$('#MapIcon').on('click', function() {
-			$('#Map').toggle();
-		});  
+
+   		$('#MapIcon').on('click', function() {
+  			$('#map').toggle();
+  		});  
   				
-  		$('#Map').hide();
-                
-                options = { enableHighAccuracy: true };
-                navigator.geolocation.getCurrentPosition(this.onSuccess, this.onError, options);
-   
+  		$('#map').hide();
+
+      watchID = navigator.geolocation.watchPosition(onSuccess, onError, { maximumAge: 3000, timeout: 5000, enableHighAccuracy: true });
+
+      app.receivedEvent('deviceready');
                
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {
-	    if (this.isApp()) {
-			var parentElement = document.getElementById(id);
-			var listeningElement = parentElement.querySelector('.listening');
-			var receivedElement = parentElement.querySelector('.received');
-			
-			listeningElement.setAttribute('style', 'display:none;');
-			receivedElement.setAttribute('style', 'display:block;');
-			
-			console.log('Received Event: ' + id);
-		}
+      if (this.isApp()) {
+  			var parentElement = document.getElementById(id);
+  			var listeningElement = parentElement.querySelector('.listening');
+  			var receivedElement = parentElement.querySelector('.received');
+  			
+  			listeningElement.setAttribute('style', 'display:none;');
+  			receivedElement.setAttribute('style', 'display:block;');
+  			
+  			console.log('Received Event: ' + id);
+  		}
     },
     
     isApp: function() {

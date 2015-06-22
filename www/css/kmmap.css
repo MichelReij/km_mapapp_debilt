@@ -5,4 +5,7 @@ body {
 html, body, #map {
     height: 100%;
 }
+a.custom_icon_control, a:hover.custom_icon_control{
+    background-color: transparent;
+}
 
