@@ -1,7 +1,7 @@
 var watchID = 0;
 
 
-var map = L.map('map').setView([52.10451, 5.17537], 15);
+var map = L.map('map',{zoomControl: false}).setView([52.10451, 5.17537], 15);
 
 var openStreetMap_Mapnik = L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 	maxZoom: 19,
@@ -22,20 +22,63 @@ openStreetMap_Mapnik.addTo(map);
 
 L.control.scale({imperial: false}).addTo(map);
 
+L.control.zoom({position: 'bottomright'}).addTo(map);
+
 
 
 
 function popUp(f, l) {
-    var out = [];
-    var userProp = "";
+    //var out = [];
+    //var userProp = "";
     if (f.properties) {
+        l.bindPopup(popUpHTML(f.properties));
+        /**
         for (key in f.properties) {
             userpropNoPlus = f.properties[key].toString().replace(/\+/g, ' ');
             userProp = decodeURIComponent(userpropNoPlus);
             out.push(key + ": " + userProp);
         }
         l.bindPopup(out.join("<br />"));
+        **/
     }
+}
+function popUpHTML(popProperties){
+    var htmlOut = "";
+    if (popProperties['kunstenaar'].length > 0){
+        htmlOut +="<p><b>";
+        htmlOut += popProperties['kunstenaar'];
+        htmlOut += "</b><p>";
+    }
+    htmlOut +="<table><tbody>";
+    
+    if (popProperties['adres'].length > 0){
+        htmlOut +="<tr class='popuptr'><td class='popuptd'><img alt='adres' width='28px' src='img/envelop.png'></td><td>";
+        htmlOut += decodeURIComponent(popProperties['adres']);
+        htmlOut += "</td></tr>";
+    }
+    if (popProperties['website'].length > 0){
+        htmlOut +="<tr class='popuptr'><td class='popuptd'><img alt='website' width='28px' src='img/www_globe.png'></td><td>";
+        htmlOut += "<a href='http://" + popProperties['website'] + "' target='_blank' class='Artist'>" + popProperties['website'] + "</a>";
+        htmlOut += "</td></tr>";
+    }
+    if (popProperties['beschrijving werk'].length > 0 && popProperties['beschrijving werk'].length < 250 ){
+        htmlOut +="<tr class='popuptr'><td class='popuptd'><img alt='omschrijving' width='28px' src='img/info.png'></td><td>";
+        htmlOut += decodeURIComponent(popProperties['beschrijving werk'].toString().replace(/\+/g, ' '));
+        htmlOut += "</td></tr>";
+    }
+    if (popProperties['kunstvorm'].length > 0){
+        htmlOut +="<tr class='popuptr'><td class='popuptd'><img alt='kunstvorm' width='28px' src='img/art.png'></td><td>";
+        htmlOut += popProperties['kunstvorm'];
+        htmlOut += "</td></tr>";
+    }
+    if (popProperties['kraamnummer'].length > 0){
+        htmlOut +="<tr class='popuptr'><td class='popuptd'><img alt='kraamnummer' width='28px' src='img/art_gallery.png'></img></td><td>";
+        htmlOut += popProperties['kraamnummer'];
+       htmlOut += "</td></tr>";
+    }
+    htmlOut += "</tbody></table>";
+return htmlOut;
+    
 }
 
 /** var geojsonMarkerOptions = {
@@ -50,7 +93,7 @@ function popUp(f, l) {
 // Creates kraam marker
 var mapMarker = L.icon({
     iconUrl: 'img/art_gallery.png',
-    iconSize: [20, 20], // size of the icon
+    iconSize: [30, 30], // size of the icon
     iconAnchor: [5, 5], // point of the icon which will correspond to marker's location
     popupAnchor: [0, -10] // point from which the popup should open relative to the iconAnchor
 
@@ -61,7 +104,7 @@ var directionMarker = L.icon({
     iconSize: [20, 20], // size of the icon             
 });
 var kraamPositions = [];
-var geojsonAjaxLayer = new L.GeoJSON.AJAX("data/km_map_json.json",
+var geojsonAjaxLayer = new L.GeoJSON.AJAX("http://www.kunstmarktdebilt.nl/km_app/km_map_json.php",
         {onEachFeature: popUp,
             pointToLayer: function (feature, latlng) {
                 var jsonMarker = L.marker(latlng, {icon: mapMarker});
@@ -78,16 +121,16 @@ geojsonAjaxLayer.addTo(map);
 var panOn = true;
 var panControl = L.Control.extend({
     options: {
-        position: 'topleft'
+        position: 'bottomright'
     },
     onAdd: function (map) {
         var container = L.DomUtil.create('div', 'leaflet-bar leaflet-control leaflet-control-custom');
 
         container.style.backgroundColor = 'white';
-        container.style.backgroundSize = '26px 26px';
+        container.style.backgroundSize = '35px 35px';
         container.style.backgroundImage = 'url(img/panning_on.png)';
-        container.style.width = '26px';
-        container.style.height = '26px';
+        container.style.width = '35px';
+        container.style.height = '35px';
         container.innerHTML ='<a class=\"custom_icon_control" href=\"#\" title=\"automatisch verschuiven centrum kaart\"></a>';
         
 
@@ -113,16 +156,16 @@ map.addControl(new panControl());
 var autoInfoOn = true;
 var autoInfoControl = L.Control.extend({
     options: {
-        position: 'topleft'
+        position: 'bottomright'
     },
     onAdd: function (map) {
         var container = L.DomUtil.create('div', 'leaflet-bar leaflet-control leaflet-control-custom');
 
         container.style.backgroundColor = 'white';
-        container.style.backgroundSize = '26px 26px';
+        container.style.backgroundSize = '35px 35px';
         container.style.backgroundImage = 'url(img/information_on.png)';
-        container.style.width = '26px';
-        container.style.height = '26px';
+        container.style.width = '35px';
+        container.style.height = '35px';
         container.innerHTML ='<a class=\"custom_icon_control" href=\"#\" title=\"automatische kraaminformatie\"></a>';
         
 
@@ -175,6 +218,17 @@ function onLocationFound(actualPos) {
 }
 
 }
+
+//---------------------------------------------//
+//----------- Handle external links -----------//
+//---------------------------------------------//
+$(document).on('click', 'a.Artist', function (event) {
+	// Dit vereist wel dat de InAppBrowser plugin geïnstalleerd is!
+	event.preventDefault();
+	window.open($(this).attr('href'), '_system');
+	return false;
+});
+
 
 //map.on('locationfound', onLocationFound);
 

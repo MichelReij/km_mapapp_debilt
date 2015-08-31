@@ -12,6 +12,12 @@
                             "xml": false,
                             "count": 1
                         }
+                    ],
+                    "CoreGraphics.framework": [
+                        {
+                            "xml": false,
+                            "count": 1
+                        }
                     ]
                 }
             },
@@ -20,6 +26,22 @@
                     "/*": [
                         {
                             "xml": "<feature name=\"Geolocation\"><param name=\"ios-package\" value=\"CDVLocation\" /></feature>",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"InAppBrowser\"><param name=\"ios-package\" value=\"CDVInAppBrowser\" /></feature>",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"StatusBar\"><param name=\"ios-package\" value=\"CDVStatusBar\" /><param name=\"onload\" value=\"true\" /></feature>",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<preference name=\"StatusBarOverlaysWebView\" value=\"true\" />",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<preference name=\"StatusBarStyle\" value=\"lightcontent\" />",
                             "count": 1
                         }
                     ]
@@ -39,10 +61,16 @@
     },
     "installed_plugins": {
         "cordova-plugin-geolocation": {
-            "PACKAGE_NAME": "net.geoduo.kmmapapp"
+            "PACKAGE_NAME": "com.benedictime.kmdb"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.benedictime.kmdb"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.benedictime.kmdb"
         },
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "net.geoduo.kmmapapp"
+            "PACKAGE_NAME": "com.benedictime.kmdb"
         }
     },
     "dependent_plugins": {}

@@ -8,4 +8,12 @@ html, body, #map {
 a.custom_icon_control, a:hover.custom_icon_control{
     background-color: transparent;
 }
+.popuptr {
+    border-bottom: 1px solid lightgray;
+}
+.popuptd {
+    vertical-align: top;
+    padding: 5px;
+    padding-right: 10px;
+}
 
