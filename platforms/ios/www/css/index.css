@@ -62,42 +62,25 @@ h1 {
 
 @keyframes fade {
     from { opacity: 1.0; }
-    50% { opacity: 0.4; }
-    to { opacity: 1.0; }
+    50%  { opacity: 0.4; }
+    to   { opacity: 1.0; }
 }
  
 @-webkit-keyframes fade {
     from { opacity: 1.0; }
-    50% { opacity: 0.4; }
-    to { opacity: 1.0; }
+    50%  { opacity: 0.4; }
+    to   { opacity: 1.0; }
 }
  
 .blink {
-    animation:fade 3000ms infinite;
+            animation:fade 3000ms infinite;
     -webkit-animation:fade 3000ms infinite;
 }
 
-
-
-#SiteContainer {
-  position        : relative;
-  padding-bottom  : 75%;
-  height          : 0;
-  overflow        : hidden;
-}
-
-#SiteContainer iframe {
-  position        : absolute;
-  top             :0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-
-
-
-#Website {
+#SiteContainer, #map {
 	position        : fixed;
+	display         : block;
+	padding         : 0px;
 	top             : 0px;
 	left            : 0px;
 	right           : 0px;
@@ -110,21 +93,18 @@ h1 {
 }
 
 #map {
-	z-index         : 10;
 }
 
-#Website {
-	z-index         : 0px;
-
+#SiteFrame {
 }
-
 
 #MapIcon {
 	z-index         : 11;
 	position        : fixed;
 	top             : 10px;
-	right           : 10px;
+	left            : 10px;
 	width           : 48px;
 	height          : 48px;
+	box-shadow: 3px 4px 16px 10px black
 
 }

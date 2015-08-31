@@ -58,8 +58,14 @@ var app = {
     // function, we must explicitly call 'app.receivedEvent(...);'
     onDeviceReady: function() {
 
-   		$('#MapIcon').on('click', function() {
-  			$('#map').toggle();
+   	$('#MapIcon').on('click', function() {
+	   	if ($("#map").is(":visible")) {
+		   	$('#map').hide();
+		   	$('#SiteContainer').show();
+	   	} else {
+		   	$('#map').show();
+		   	$('#SiteContainer').hide();		   	
+	   	}
   		});  
   				
   		$('#map').hide();
