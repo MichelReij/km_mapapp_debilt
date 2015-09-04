@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="net.geoduo.kmmapapp" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>KunstmarktDeBiltMapApp</name>
+<widget id="com.benedictime.kmdb" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>KMDB</name>
     <description>
-        A sample Apache Cordova application that responds to the deviceready event.
+        De officiële app van de Kunstmarkt De Bilt.
     </description>
-    <author email="dev@cordova.apache.org" href="http://cordova.io">
-        Apache Cordova Team
+    <author email="michel@benedictime.com" href="http://benedictime.com">
+        Benedictime & Frank Schmidt
     </author>
     <content src="index.html" />
     <plugin name="cordova-plugin-whitelist" version="1" />
@@ -19,5 +19,5 @@
     <platform name="android">
         <allow-intent href="market:*" />
     </platform>
-    
+    <access origin="*.kunstmarktdebilt.nl" />
 </widget>

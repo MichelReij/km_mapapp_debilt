@@ -58,8 +58,14 @@ var app = {
     // function, we must explicitly call 'app.receivedEvent(...);'
     onDeviceReady: function() {
 
-   		$('#MapIcon').on('click', function() {
-  			$('#map').toggle();
+   	$('#MapIcon').on('click', function() {
+	   	if ($("#map").is(":visible")) {
+		   	$('#map').hide();
+		   	$('#SiteContainer').show();
+	   	} else {
+		   	$('#map').show();
+		   	$('#SiteContainer').hide();		   	
+	   	}
   		});  
   				
   		$('#map').hide();
@@ -67,6 +73,8 @@ var app = {
       watchID = navigator.geolocation.watchPosition(onSuccess, onError, { maximumAge: 3000, timeout: 5000, enableHighAccuracy: true });
 
       app.receivedEvent('deviceready');
+
+
                
     },
     // Update DOM on a Received Event
