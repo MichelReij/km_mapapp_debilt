@@ -66,10 +66,11 @@ function popUpHTML(popProperties){
         htmlOut += "</td></tr>";
     }
     if (popProperties['website'].length > 0){
-       htmlOut +="<tr class='popuptr'><td class='popuptd'><img alt='website' width='28px' src='img/www_globe.png'></td><td>";
-        htmlOut += popProperties['website'];
-       htmlOut += "</td></tr>";
+        htmlOut +="<tr class='popuptr'><td class='popuptd'><img alt='website' width='28px' src='img/www_globe.png'></td><td>";
+        htmlOut += "<a href='http://" + popProperties['website'] + "' target='_blank' class='Artist'>" + popProperties['website'] + "</a>";
+        htmlOut += "</td></tr>";
     }
+
     if (popProperties['beschrijving werk'].length > 0 && popProperties['beschrijving werk'].length < 250 ){
         htmlOut +="<tr class='popuptr'><td class='popuptd'><img alt='omschrijving' width='28px' src='img/info.png'></td><td>";
         htmlOut += decodeURIComponent(popProperties['beschrijving werk'].toString().replace(/\+/g, ' '));
@@ -230,6 +231,17 @@ function onLocationFound(actualPos) {
 }
 
 }
+
+//---------------------------------------------//
+//----------- Handle external links -----------//
+//---------------------------------------------//
+$(document).on('click', 'a.Artist', function (event) {
+	// Dit vereist wel dat de InAppBrowser plugin geïnstalleerd is!
+	event.preventDefault();
+	window.open($(this).attr('href'), '_system');
+	return false;
+});
+
 
 
 // onSuccess Callback
